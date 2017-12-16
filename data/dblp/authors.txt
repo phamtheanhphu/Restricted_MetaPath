@@ -1,0 +1,4725 @@
+753674	Javier Artiles
+1327120	Pei Sun
+1310738	Patrick E. O'Neil
+1605662	Stellan Ohlsson
+24588	Abhijit Pol
+475158	Evangelos Simoudis
+1359879	Pragnesh Jay Modi
+1703951	Tomás Lozano-Pérez
+794649	Jin Soung Yoo
+786452	Jianhui Chen
+196638	Betty Salzberg
+1556489	Shihui Zheng
+163869	Aya Soffer
+1089551	Mario A. Nascimento
+458791	Erhard Rahm
+1818682	Xing Jiang
+1777721	Wei-Min Shen
+1253425	Nicolas Spyratos
+540715	Gao Cong
+1261620	Nipun Agarwal
+1400888	Ramón Béjar
+1302590	Pankaj Kankar
+794686	Jin Tian
+671792	Huowang Chen
+516157	Françoise Fabret
+1155116	Michael Fink
+114751	Andrzej Skowron
+409657	Donald E. Walker
+1179731	Milind Joshi
+1048658	Madhur Kohli
+1859673	Yoichi Sato
+180295	Bart Peintner
+1081430	Maria Halkidi
+1392722	Rahul Shah
+1163352	Michael Siegel
+1613906	Steve Lawrence
+737344	James Mayfield
+1736789	Valentin Jijkoun
+802908	Jitender S. Deogun
+1753160	Vincent Conitzer
+270422	Cheng-Ru Lin
+221265	Bruce W. Porter
+1867855	Yoshinori Hara
+770129	Jenny Chiang
+1818688	Xing Li
+1654853	Takayoshi Shoudai
+589909	Guoliang Fan
+7340076	Carmem S. Hara
+1278030	Olga Papaemmanouil
+1155148	Michael Flaster
+376923	David Toman
+1351755	Pierre Marquis
+1466441	Ruizhang Huang
+1261683	Nir Friedman
+1917052	Zhu Zhang
+131171	Anthony G. Cohn
+1532021	Serge Rielau
+1056882	Malik Ghallab
+1818748	Xing Wei
+426081	E. Nahouraii
+1450097	Rohini K. Srihari
+589923	Guoliang Li
+1392761	Rahul Sukthankar
+139375	Anupam Bhide
+1179775	Milind Tambe
+958561	Kyoung Mu Lee
+49266	Alan Borning
+1900655	Zbigniew W. Ras
+417909	Douglas R. Cutting
+180343	Bart Selman
+1564768	Show-Jane Yen
+1597551	Stan Matwin
+434303	Edward Hung
+1417327	Renu Tewari
+1097872	Mark S. Boddy
+917642	Kemafor Anyanwu
+139396	Anupam Joshi
+1597585	Stan Sclaroff
+573570	Gordon Sun
+802950	Jitendra Malik
+1106076	Martin Franz
+1679508	Thomas Ellman
+1114271	Maryann E. Martone
+1704085	Tomás Pajdla
+835742	Joost N. Kok
+549018	George A. Mihaila
+1007772	Loo-Nin Teow
+1679500	Thomas Eiter
+1818755	Xing Xie
+417948	Douglas R. Smith
+458905	Eric A. Brewer
+573590	Gordon V. Cormack
+1097905	Mark S. Fox
+1155250	Michael Freed
+1409206	Raymond Reiter
+925867	Kevin Chen-Chuan Chang
+1237173	Natasa Milic-Frayling
+1286331	Oscar Díaz
+401583	Dino Pedreschi
+630946	Helen M. Thomas
+1597621	Stan Z. Li
+1712311	Toshihiro Kamishima
+893088	Kangmiao Liu
+819385	John G. Hughes
+57525	Ales Leonardis
+188602	Benjamin Kuipers
+458939	Eric A. Hansen
+24766	Abhinandan Das
+385222	Demetri Terzopoulos
+1310930	Patrick Gallinari
+557262	Gerhard Weikum
+205002	Blaz Zupan
+1851600	Yidong Yuan
+1319109	Paul S. Bradley
+49361	Alan C. Schultz
+1269959	Noureddine Mouaddib
+557278	Gerhard Widmer
+1417421	Renxu Sun
+1654976	Takayuki Ito
+1507533	Sanghyun Park
+303321	Christos Tryfonopoulos
+811217	Joel E. Richardson
+1532145	Sergei B. Arseniev
+1319155	Paul S. Jacobs
+983271	Leo Joskowicz
+1360126	Prakash Linga
+950500	Krzysztof Koperski
+1401086	Ramon López de Mántaras
+196847	Beverly Park Woolf
+409832	Donald H. Kraft
+1769706	Walid G. Aref
+131317	Anthony Hunter
+508158	Fosca Giannotti
+5931168	Jun Huan
+24829	Abhinav Gupta
+155901	Asit Dan
+508167	Foster J. Provost
+925965	Kevin D. Ashley
+762120	Jeanine Weißenfels
+139526	Anupriya Ankolekar
+196870	Beverly Yang
+1073431	Marco Maggini
+7340410	Dolf Trieschnigg
+1630483	Suresh Venkatasubramanian
+1319192	Paul S. Rosenbloom
+1302814	Panos K. Chrysanthis
+1794315	William M. Spears
+5857610	Gordon S. Novak
+1581325	Sin Yeung Lee
+254230	César A. Galindo-Legaria
+1573133	Sibel Adali
+7430503	Denise Draper
+1704205	Tomás Singliar
+1106183	Martin Gaedke
+131355	Anthony J. Bonner
+1409295	Raymond T. Ng
+327967	Curtis E. Dyreson
+606482	Haizhou Li
+983340	Leo Mark
+663854	Huahai He
+7242056	Egidio L. Terra
+1098040	Mark Sanderson
+1417535	Renzo Orsini
+352558	Daniel Oblinger
+106796	Andrei Tamilin
+1564985	Shree K. Nayar
+1761578	Vladislav Shkapenyuk
+1302818	Panos Kalnis
+745791	Jane Reid
+622908	Haruo Yokota
+1204522	Mokhtar Kandil
+663858	Huahai Yang
+1155369	Michael G. Dyer
+6603102	Illah R. Nourbakhsh
+1671458	Tetsuya Higuchi
+1605924	Stephan Bloehdorn
+672054	Huseyin Polat
+6963543	Y. Alp Aslandogan
+377144	David Vallet
+1442091	Robert Wilensky
+7242065	Jean Tague
+1278291	Olga Vechtomova
+5857565	Ann E. Nicholson
+1278292	Olga Veksler
+1286466	Oscar H. Ibarra
+295253	Christine Tomlinson
+786782	Jianke Zhu
+1548612	Sheau-Dong Lang
+5857549	Anne H. H. Ngu
+7242043	Agma J. M. Traina
+1909067	Zhenjie Zhang
+7242041	Caetano Traina Jr.
+1515850	Saso Dzeroski
+1433928	Robert C. Berwick
+1180019	Milos Hauskrecht
+1769850	Walker M. White
+5857594	Andrew Y. Ng
+1114482	Marzena Kryszkiewicz
+1540466	Shahram Ghandeharizadeh
+639329	Hervé Gallaire
+1532283	Sergei M. Ananyan
+344425	Dan I. Moldovan
+1130848	Matthias Jarke
+5857576	Werner Nutt
+1319271	Paul Scerri
+5890346	Matthew E. Taylor
+1302889	Panos Vassiliadis
+106874	Andrei Voronkov
+917872	Ken Barker
+500088	Fereidoon Sadri
+1720728	Tuomas Sandholm
+745865	Jane Terry Nutter
+418180	Douglas W. Cornell
+6029791	Raj Bhatnagar
+106885	Andrei Z. Broder
+1352081	Pierre Senellart
+74116	Ali Ghodsi
+1163668	Michael Steinbach
+573824	Gösta Grahne
+311693	Claire Cardie
+7242215	Leendert W. N. van der Torre
+680326	I. V. Ramakrishnan
+688517	Ilkka Niemelä
+1532312	Sergei Nirenburg
+369044	David Harel
+90523	Amy J. Lee
+1728896	Usama M. Fayyad
+418205	Douglas W. Oard
+5857734	Michael K. Ng
+1835395	Yanchang Zhao
+508335	Foto N. Afrati
+917926	Ken C. K. Lee
+827814	Jon Doyle
+1057211	Mallory Selfridge
+139702	Anurag Maskey
+287155	Chris Stauffer
+147898	Arno J. Knobbe
+1745319	Véronique Benzaken
+1753563	Vincent J. Digricoli
+410051	Donald Kossmann
+369091	David Haussler
+369101	David Hawking
+1622486	Sugato Basu
+1622472	Sugata Ghosal
+786911	Jianliang Xu
+1671626	Tetsuya Sakai
+614877	Hans Schuster
+1335745	Peter Ingwersen
+6300086	Pedro F. Felzenszwalb
+811483	Joel L. Wolf
+7242163	Josh D. Tenenberg
+344538	Dan Klein
+688616	Illhoi Yoo
+1761791	Vo Ngoc Anh
+696812	Irene Stahl
+573920	Gottfried Vossen
+131562	Anthony K. H. Tung
+6365576	Bonnie L. Webber
+369134	David Heckerman
+1425913	Richard M. Tong
+606694	Hajime Kimura
+1851886	Yifeng Zheng
+90610	Amy L. Lansky
+1450466	Roi Blanco
+1434080	Robert C. Moore
+1106405	Martin Grohe
+1196517	Mohamed Y. Eltabakh
+385530	Deng Cai
+737807	James P. Delgrande
+1835546	Yandong Liu
+1860116	Yolanda Gil
+434702	Edward L. Wimmers
+1647123	T. Y. Cliff Leung
+1786385	Wensheng Wu
+1425950	Richard Maclin
+1466907	Rune Hjelsvold
+5857879	J. K. Aggarwal
+7242337	Philip H. S. Torr
+1196573	Mohamed Zaït
+1851917	Yigal Arens
+147984	Arno Siebes
+1638922	Sylvain Létourneau
+131606	Anthony Kosky
+1458690	Rosa Meo
+254486	Cèsar Fernández
+295443	Christof Bornhövd
+1057287	Malte Helmert
+631313	Helena Galhardas
+877079	Justin Zobel
+1712640	Toshikazu Wada
+1671737	Tetsuya Yoshida
+1106482	Martin H. C. Law
+418340	Dov Monderer
+737833	James P. Fry
+959017	Kyriakos Mouratidis
+729635	Jaewoo Kang
+49707	Alan F. Smeaton
+1770039	Walter A. Burkhard
+1442362	Roberta Cochrane
+205357	Bo Long
+1802805	Wouter Weerkamp
+590392	Guoren Wang
+803389	Jiun-Long Huang
+1794600	William O'Connell
+344624	Dan Lin
+1614381	Steve Rozen
+6595154	Fabio A. González
+1344044	Phil Vines
+614961	Hans Tompits
+5857888	Pankaj K. Agarwal
+1655333	Takeaki Uno
+295482	Christof Hasse
+1155665	Michael Gelfond
+483910	Fabien De Marchi
+328260	Cynthia A. Thompson
+1000013	Linli Xu
+213569	Branislav Kveton
+1630813	Suryanarayana M. Sripada
+377423	David W. Embley
+197193	Bharat K. Bhargava
+1786453	Wensi Xi
+7488060	William F. Punch
+983616	Léon Bottou
+123473	Anna Bramanti-Gregor
+197203	Bharat Kumar
+7488038	Christos H. Papadimitriou
+221782	Bruno Crémilleux
+377426	David W. Etherington
+1368643	Qiming Chen
+860762	Juho Rousu
+7488037	E. K. Park
+557655	German Shegalov
+1426039	Richard McConachy
+90724	Amy McGovern
+1311346	Patrick J. Hayes
+1516144	Sathyakama Sandilya
+1344120	Philip A. Bernstein
+1335929	Peter J. Haas
+7242243	Wang Chiew Tan
+1155711	Michael Gertz
+295531	Christof Monz
+1794667	William P. Birmingham
+1704553	Tomasz Imielinski
+434801	Edward M. Riseman
+524913	Fritz Wysotzki
+49785	Alan G. Merten
+1532521	Sergej Sizov
+82559	Aly A. Farag
+492152	Farzin Maghoul
+459396	Eric Brill
+541323	Gareth J. F. Jones
+1098388	Mark Sullivan
+754318	Javier Larrosa
+1516191	Satinder Singh
+385676	Dengfeng Gao
+696960	Irfan A. Essa
+361103	Darrell D. E. Long
+5792469	David Maxwell Chickering
+1016479	Lucy Vanderwende
+115344	Andy M. Yip
+934553	King-Lup Liu
+221851	Bruno Defude
+680595	Iadh Ounis
+410271	Donald Metzler
+377497	David W. Jacobs
+279193	Chih-Jen Lin
+877203	Justus H. Piater
+934545	King-Ip Lin
+418471	Dragan Gamberger
+7242445	Yi-Cheng Tu
+623276	Hasan Davulcu
+1548977	Sheila A. McIlraith
+1073846	Marco Patella
+1417906	Reuven Kashi
+664237	Huaiyu Zhu
+1778355	Wei-Ying Ma
+7242435	Jens Teubner
+6537933	Michael Gillmann
+1360551	Pranam Kolari
+328370	Cynthia Dwork
+524979	Froduald Kabanza
+189113	Benjamin Piwowarski
+1753766	Vincent Lepetit
+1057454	Malú Castellanos
+1368747	Qin Lu
+729801	Jafar Adibi
+1098450	Mark T. Maybury
+1409744	Razvan Stefan Bot
+1229531	Nam Huyn
+7242404	Charles E. Thorpe
+1860311	Yonatan Aumann
+443082	Eli Upfal
+7242403	Y. C. Tay
+33486	Adrian Petcu
+688858	Ilsoo Ahn
+41680	Aidong Zhang
+164566	Ayhan Demiriz
+459473	Eric C. Jensen
+1065671	Marc B. Vilain
+1098443	Mark T. Keane
+205534	Bo Xu
+5792443	Vitor R. Carvalho
+5792432	Joyce Y. Chai
+361199	Darrell Woelk
+5792439	Chris Clifton
+705253	Ivo Düntsch
+377589	David W. Opitz
+983806	Leon Portman
+664315	Huajie Zhang
+1188576	Mirco Nanni
+410355	Donald P. McKay
+1008376	Lorenza Saitta
+828155	Jon M. Kleinberg
+1630946	Susan B. Davidson
+7488141	Themis Palpanas
+1696486	Tina Eliassi-Rad
+434950	Edward Omiecinski
+885519	K. V. S. Ramarao
+1540885	Shai Avidan
+33540	Adrian R. Pearce
+664335	Huajun Chen
+377602	David W. Patterson
+664323	Huajing Li
+1237790	Nathalie Japkowicz
+1475355	S. Bing Yao
+516873	Frank Dellaert
+1557255	Shimin Chen
+1393412	Rainer Gemulla
+787229	Jianna Zhang
+434967	Edward P. F. Chan
+1917711	Zhuowen Tu
+6259532	Pablo de la Fuente
+615194	Hans-Arno Jacobsen
+205589	Bo Zhang
+811796	Joel Sachs
+1229579	Nam Nguyen
+385820	Dengyong Zhou
+1680128	Thomas Gärtner
+1794817	William Pentney
+1417998	Rex A. Flynn
+344862	Dan Olteanu
+1688325	Tian Xia
+1794821	William Perrizo
+803602	Jiuyong Li
+1655611	Takehisa Yairi
+434981	Edward P. K. Tsang
+1557311	Shiming Xiang
+959271	Kyu-Young Whang
+1844022	Yasuo Kuniyoshi
+762656	Jeehee Yoon
+647973	Hiroya Takamura
+1090366	Mário J. Silva
+1344314	Philip Bohannon
+5792631	Rama Chellappa
+631609	Hélène Fargier
+1532711	Sergey Brin
+148275	Arnold W. M. Smeulders
+1688365	Tian Zhang
+7488327	Fernando C. N. Pereira
+1073966	Marco Pistore
+746292	Janet L. Kolodner
+377669	David W. Stemple
+1286993	Oskar Dressler
+385863	Denilson Barbosa
+1074004	Marco Pötke
+1540946	Shai Shalev-Shwartz
+566095	Giovanni Guida
+344909	Dan Pelleg
+1426271	Richard Nock
+1549146	Sheila Tejada
+746309	Janet L. Wiener
+1459033	Rosana S. G. Lanzelotte
+1131328	Matthias Nicola
+148305	Arnon Amir
+1835849	Yang Du
+582485	Guangyou Xu
+66399	Alexander Stoytchev
+1319754	Paul Thomas
+1557367	Shimon Whiteson
+1557365	Shimon Ullman
+50019	Alan J. Demers
+1753981	Vincent Oria
+1852283	Yihong Gong
+7488283	Alex Pentland
+58217	Alessandro Campi
+410474	Donald R. Slutz
+1188733	Mirek Riedewald
+1508216	Sanjay Agrawal
+1254243	Nicole Schweikardt
+607096	Hakan Ferhatosmanoglu
+1581920	Sing Bing Kang
+33658	Adrian Silvescu
+7488270	Euthimios Panagos
+5792728	James P. Callan
+1631128	Susan Craw
+639881	Hetal Thakkar
+6669287	Alan Fern
+1598362	Stanley Kok
+1655708	Takenobu Tokunaga
+1508242	Sanjay Bhansali
+1860505	Yong Gao
+1164183	Michael Thielscher
+607119	Hakan Hacigümüs
+902027	Katashi Nagao
+1663883	Tat-Seng Chua
+5858253	Sean P. Engelson
+7398373	A. J. Feelders
+1868681	Yoshitsugu Kakemoto
+926617	Kevin J. Lang
+418714	Dragomir Yankov
+418712	Dragomir R. Radev
+1631160	Susan Darling Urban
+41889	Aijun An
+1278907	Oliver Günther
+1074107	Marco Richeldi
+557988	Gerome Miklau
+1082301	Maria L. Gini
+1049504	Magdalena Balazinska
+1336228	Peter Jackson
+730043	Jagannathan Srinivasan
+1794986	William R. Hersh
+418740	Dragos D. Margineantu
+5858284	Giambattista Amati
+1729452	Utkarsh Srivastava
+1344418	Philip C. Woodland
+803765	Jiwoon Jeon
+1262506	Nisheeth Shrivastava
+549812	George Eadon
+1450923	Roland H. C. Yap
+1508265	Sanjay Chawla
+5792743	Marco A. Casanova
+197568	Bhaskar Mehta
+1401809	Ran El-Yaniv
+1369043	Qing Li
+484302	Fabio Aiolli
+852932	Josiane Xavier Parreira
+1188802	Mirella Lapata
+1835981	Yang Liu
+566234	Giovanni Maria Sacco
+1049539	Magdalena D. Bugajska
+787417	Jianping Zhang
+1852361	Yihua Wu
+476112	Evgeniy Gabrilovich
+66521	Alexander Thomasian
+336861	D. Sivakumar
+1524684	Sebastian Michel
+1729478	Utku Irmak
+345048	Dan Roth
+1442761	Roberto Basili
+812012	Joelle Pineau
+1532927	Sergey Kirshner
+1655793	Takeo Kanade
+197609	Bhaskara Marthi
+1819636	Xingquan Zhu
+435190	Edward Sciore
+1254371	Nicoleta Preda
+50164	Alan K. Mackworth
+984059	Leonard Friedman
+197620	Bhaskaran Raman
+156664	Assaf Schuster
+7488393	Alun D. Preece
+1205267	Mong-Li Lee
+148480	Aron Culotta
+418819	Dragutin Petkovic
+1131543	Matthias Renz
+1156118	Michael H. Böhlen
+812043	Joemon M. Jose
+1336349	Peter Jonsson
+1549341	Sheldon J. Finkelstein
+1614867	Steven A. Shafer
+1074206	Marco Saerens
+664603	Huan Liu
+58386	Alessandro D'Atri
+140304	Ao Feng
+1696778	Ting Chen
+1344512	Philip D. Laird
+33818	Adrian Walker
+66590	Alexander Tuzhilin
+1852478	Yijian Bai
+615468	Hans-Hellmut Nagel
+271395	Chengkai Li
+1778739	Weidong Chen
+877604	Juzhen Dong
+295983	Christoph Bussler
+1868848	Yoshiyuki Koseki
+287785	Christel Vrain
+197683	Bhavani M. Thuraisingham
+1270816	Nuno Vasconcelos
+1811503	Xiaochun Yang
+1090597	Mario Marchand
+353331	Daniel R. Ries
+1156134	Michael H. Coen
+1770531	Walter Hamscher
+1795105	William R. Swartout
+197688	Bhavani Raskutti
+1909792	Zhenyu Liu
+541750	Garrison W. Cottrell
+1025072	Lyle H. Ungar
+664650	Huan Wang
+1401940	Ran Wolff
+918600	Ken Q. Pu
+771148	Jens Lechtenbörger
+1508447	Sanjay Mittal
+549952	George Forman
+1762387	Volker Markl
+377940	David Wilhite
+1745999	Vibby Gottemukkala
+1262661	Nita Goyal
+1025113	Lyman Do
+1598542	Stanley Y. W. Su
+1696846	Ting Liu
+1336387	Peter K. Allen
+1836107	Yang Song
+1582145	Sinno Jialin Pan
+1811521	Xiaocong Fan
+1762368	Volker Linnemann
+1287282	Osmar R. Zaïane
+50273	Alan L. Rector
+394338	Diane J. Litman
+926826	Kevin Knight
+1262710	Nitendra Rajput
+5792830	Zhiyuan Chen
+1844341	Yasushi Ogawa
+1361021	Prasan Roy
+369774	David J. DeWitt
+50287	Alan L. Yuille
+984190	Leonard McMillan
+1360998	Prasad Tadepalli
+1467493	Ruoming Jin
+345206	Dan Suciu
+1369184	Qing Zhang
+1074278	Marco Schaerf
+7488516	Kwok-Wai Cheung
+1836134	Yang Wang
+1647714	Tad Hogg
+7488521	Ryen W. White
+590987	Guozhu Dong
+1057938	Man Hon Wong
+918666	Ken Satoh
+697487	Irina Rish
+377987	David Wingate
+795776	Jin-Yi Cai
+1361049	Prasanna Ganesan
+1811606	Xiaodan Zhang
+1631383	Susan Gauch
+287883	Christer Bäckström
+1557638	Shin'ichi Satoh
+738456	James R. Slagle
+1811592	Xiaodan Song
+107666	Andres Huertas
+5792971	David W. Cheung
+803994	Jiying Wang
+984215	Leonard P. Wesley
+1066122	Marc Denecker
+1844359	Yasushi Sakurai
+1533068	Sergey Melnik
+1696901	Ting Wang
+7136497	R. G. G. Cattell
+746645	Janez Demsar
+1131662	Matthias Scheutz
+369818	David J. Fleet
+484504	Fabio Casati
+1057974	Man Leung Wong
+378018	David Wolpert
+984226	Leonard Pitt
+1746100	Vibhu O. Mittal
+1164478	Michael V. Mannino
+730276	Jahna Otterbacher
+1508519	Sanjay Ranka
+1303714	Paolo Atzeni
+1434791	Robert Demolombe
+140470	Aoying Zhou
+50358	Alan M. Frisch
+1303716	Paolo Avesani
+1696929	Ting Yu
+296124	Christoph F. Eick
+1262760	Nitesh V. Chawla
+132287	Anthony Stentz
+1852637	Yijun Sun
+1049809	Magdalini Eirinaki
+976076	Laurent Mignet
+1352912	Pieter Abbeel
+484547	Fabio Ciravegna
+1869017	Yoshua Bengio
+6374566	Frans Coetzee
+648384	Hiroyuki Kitagawa
+5792914	K. Selçuk Candan
+656576	Hongxing He
+1131713	Matthias Schubert
+1057986	Man Lung Yiu
+369878	David J. Hand
+1565889	Shu-Ching Chen
+369885	David J. Harper
+1443023	Roberto Cipolla
+328924	Cyril Goutte
+1656003	Takeshi Fukuda
+1746113	Vibhuti S. Sengar
+861393	Jukka Teuhola
+1811655	Xiaodong Chen
+1795269	William S. Cooper
+345307	Dan Ventura
+1164528	Michael van Lent
+1066226	Marc Eisenstadt
+1639675	Sylvie Thiébaux
+484580	Fabio Crestani
+1754367	Vincent Vidal
+214245	Brendan J. Frey
+173291	Badrish Chandramouli
+1393919	Rainer Unland
+1508605	Sanjaya Addanki
+1303800	Paolo Boldi
+984291	Leonard Uhr
+730341	Jai Menon
+5792937	Chee Yong Chan
+1172707	Miguel E. Ruiz
+1082595	Maria Luisa Sapino
+615677	Hans-Jörg Schek
+1598703	Stavros Christodoulakis
+1860843	Yong Rui
+1795297	William S. Havens
+378105	David Y. Y. Yun
+1139951	Mechtild Wallrath
+1320171	Paul Watson
+5792935	Francis Y. L. Chin
+550135	George H. John
+566539	Giovanni Semeraro
+369921	David J. Israel
+410883	Donato Malerba
+1426704	Richard R. Muntz
+132356	Anthony Tomasic
+5793105	Ingemar J. Cox
+1860886	Yong Shi
+271625	Chengqi Zhang
+435464	Edward Y. Chang
+1598728	Stavros Harizopoulos
+1156352	Michael Hammer
+927002	Kevin Leyton-Brown
+1180934	Min Wang
+1295630	P. P. S. Narayan
+656686	Hongyan Liu
+705831	Iyad Rahwan
+369960	David J. Kriegman
+1238308	Nathan Folkert
+1402147	Ranan B. Banerji
+1893674	Yutaka Matsuo
+1762605	Volker Tresp
+1910049	Zhewei Jiang
+7488845	W. W. Bledsoe
+1852707	Yike Guo
+288059	Christian A. Lang
+1279276	Oliver M. Duschka
+1262931	Nitin Gupta 0003
+1672537	Thanaruk Theeramunkong
+795980	Jinbo Bi
+1115472	Masahiko Yachida
+1008973	Loreto Bravo
+1181009	Min Zhang
+968010	Lan Nie
+1262935	Nitin Indurkhya
+697678	Irini Fundulaki
+222533	Bruno Pôssas
+779587	Jette Randløv
+1295706	P. Pandurang Nayak
+468298	Esen A. Ozkarahan
+1049950	Magesh Jayapandian
+1598792	Stavros S. Cosmadakis
+5793034	Moses Charikar
+1336647	Peter Klahold
+730463	Jaideep Vaidya
+1156420	Michael Harville
+730460	Jaideep Srivastava
+1754438	Vincent Y. Lum
+1738055	Valerie Guralnik
+795987	Jinbo Huang
+1238349	Nathan Goodman
+1336692	Peter Knees
+763247	Jeff G. Schneider
+402786	Dirk Habich
+992619	Licheng Jiao
+1328497	Peiya Liu
+1705341	Tomi Silander
+1361276	Prasenjit Mitra
+591201	Gurmeet Singh Manku
+1066362	Marc G. Slack
+5793074	Peter P. Chen
+1869164	Yossi Matias
+50545	Alan Nash
+968060	Lan Yi
+1262945	Nitin Jindal
+5793067	Andrzej Cichocki
+1672556	Thanasis Hadzilacos
+1508706	Sanjeev Khanna
+1066342	Marc Friedman
+1779044	Weiguo Fan
+738697	James S. Duncan
+1811864	Xiaofang Zhou
+329088	Cyril U. Orji
+1836441	Yang-Sae Moon
+198020	Bhushan Mandhani
+1443217	Roberto Esposito
+1025415	Lynn Andrea Stein
+1787283	Wenyuan Li
+1820054	Xingzhi Sun
+1787273	Wenyuan Dai
+910744	Kazumi Kubota
+7488996	Patrick H. Winston
+198036	Bhuvan Bamba
+673170	Hwanjo Yu
+320926	Constantin F. Aliferis
+1303944	Paolo Ciaccia
+7087565	Mikhail Bilenko
+476582	Evimaria Terzi
+558506	Gert R. G. Lanckriet
+1000877	Lionel Martin
+910767	Kazumi Saito
+640426	Hichem Frigui
+1574335	Siegfried Handschuh
+443823	Eliezer L. Lozinskii
+1410495	Rebecca N. Wright
+976292	Laurent Siklóssy
+148904	Arsany Sawires
+542115	Gary C. Borchardt
+484780	Fábio Gagliardi Cozman
+296362	Christoph Heinz
+7488989	Benjamin W. Wah
+1861036	Yong Yu
+26035	Abraham Bernstein
+1377702	R. Erbe
+26036	Abraham Bookstein
+501170	Fernando De la Torre
+443824	Eliezer Levy
+1811885	Xiaofei He
+460223	Éric Gaussier
+525744	Fuchun Peng
+5793251	Sara Cohen
+501189	Fernando Diaz
+1344983	Philip J. Hayes
+1017285	Luh Yen
+271823	Chengwen Liu
+353748	Daniel S. Bernstein
+837086	Jörg H. Siekmann
+312787	Clark D. French
+1361357	Prashant Doshi
+1320397	Paul-Alexandru Chirita
+99803	Andrea Calì
+6219198	Rod M. Burstall
+640488	Hidde de Jong
+1803770	Wynne Hsu
+992750	Lida Li
+812525	Johan de Kleer
+1230320	Nan Zhang 0004
+1066484	Marc H. Graham
+312803	Clark F. Olson
+1574399	Siegfried Nijssen
+566753	Giridhar Kumaran
+1091065	Mario Schkolnick
+1156600	Michael Herscovici
+361967	Daryl Pregibon
+673248	Hwee Tou Ng
+1066491	Marc H. Scholl
+83434	Amanda Clare
+1279457	Oliver Po
+976381	Laurent Vieille
+5793196	Diane J. Cook
+1361377	Prashant J. Shenoy
+1164775	Michael W. Mahoney
+1607151	Stéphane Ayache
+157179	Asuman Dogac
+673264	HweeHwa Pang
+1402351	Randall Davis
+1066476	Marc Gyssens
+779765	Jezekiel Ben-Arie
+615947	Hans-Peter Frei
+361985	Daryl T. Lawton
+1353234	Pieter W. Adriaans
+1811996	Xiaofeng He
+1426975	Richard S. Sutton
+1680915	Thomas Hofmann
+787974	Jianwen Su
+1197592	Mohammad El-Hajj
+271880	ChengXiang Zhai
+755207	Jay Banerjee
+198157	Bi-Ru Dai
+1541657	Shalom Tsur
+58895	Alessandro Moschitti
+468498	Esko Ukkonen
+157205	Asunción Gómez-Pérez
+1549839	Shen-Shyang Ho
+7399019	C. J. van Rijsbergen
+1648130	Tadashi Nomoto
+992785	Lidan Shou
+681514	Ian H. Witten
+1435190	Robert E. Schapire
+1812024	Xiaofeng Meng
+1607229	Stéphane Bressan
+1312306	Patrick Pantel
+853547	Jouni K. Seppänen
+615982	Hans-Peter Kriegel
+345645	Dana F. Wilkinson
+189995	Bennet Vance
+837158	Jörg Hoffmann
+788006	Jianwu Yang
+1099326	Marko Bohanec
+67120	Alexander Yates
+1623596	Suk-Chung Yoon
+6022752	Jayant Kalagnanam
+329272	Cyrus Shahabi
+1271379	Nuria Oliver
+345671	Dana H. Ballard
+1304145	Paolo Ferragina
+1336918	Peter Kunath
+321088	Constantine D. Spyropoulos
+1525329	Sebastian Thrun
+1582687	Sirish Chandrasekaran
+5678623	Candace L. Sidner
+1058394	Manabu Okumura
+1607251	Stéphane Canu
+296520	Christoph Kiefer
+1607255	Stéphane Cardon
+1320513	Paula B. Hawthorn
+435806	Edwin M. Knorr
+1304137	Paolo Favaro
+288346	Christian Bessière
+1730170	Uwe Röhm
+968303	Lance Riedel
+353892	Daniel S. Yeung
+1508981	Sanjoy Dasgupta
+509540	Francesca Rossi
+1304182	Paolo Frasconi
+681570	Ian Horrocks
+616034	Hans-Peter Seidel
+1345151	Philip Kilby
+1812073	Xiaofeng Zhu
+550522	George Karypis
+296562	Christoph Koch
+1345122	Philip K. Chan
+730749	Jaime G. Carbonell
+1705581	Tommaso Di Noia
+7489029	Daniel S. Weld
+837237	Jörg Kindermann
+353919	Daniel Sagalowicz
+575091	Graham Cormode
+67197	Alexander Zien
+747147	Janice I. Glasgow
+1001099	Lior Wolf
+657027	Hongyuan Zha
+6285014	Jade Goldstein
+124560	Anna M. Manning
+1345157	Philip Klahr
+157331	Ata Kabán
+788125	Jianxin Wu
+435860	Edwin P. D. Pednault
+1173124	Miguel Moreira
+1099398	Marko Grobelnik
+910999	Kazunori Matsumoto
+1517195	Satoshi Morinaga
+1255053	Niels Landwehr
+272036	Chengyu Sun
+1541813	Shamim A. Naqvi
+1074867	Marcos André Gonçalves
+1656509	Takeshi Tokuyama
+190119	Benno Stein
+288419	Christian Böhm
+1836724	Yangjun Chen
+75441	Ali Saman Tosun
+1181347	Min-Jae Lee
+1631914	Susan Malaika
+1762984	Vram Kouramajian
+1828521	Y. Edmund Lien
+1844911	Yatin P. Saraiya
+550587	George Kollios
+935606	Kirk Pruhs
+50879	Alan S. Willsky
+1164974	Michael Watzke
+1549992	Sheng Ma
+1435349	Robert Engels
+820940	John K. Debenham
+542411	Gary G. Hendrix
+1320659	Paula Furtado
+550592	George Konidaris
+198351	Bianca Zadrozny
+640709	Hideaki Takeda
+1205982	Monica Scannapieco
+263881	Charles Elkan
+313034	Claude Delobel
+1722068	Tzi-cker Chiueh
+1197762	Mohammad Ghavamzadeh
+460502	Eric Horvitz
+7169720	Hans W. Guesgen
+108247	Andrew B. Baker
+1279685	Oliver Spatscheck
+1451713	Rolf A. de By
+1492673	Saharon Rosset
+1074887	Marcos Antonio Vaz Salles
+6850224	Chris Pal
+984790	Leonardo Lesmo
+1550028	Sheng Tang
+354009	Daniel Scharstein
+190175	Benny Kimelfeld
+804589	Joachim Biskup
+1107700	Martin L. Kersten
+1238773	Nathan R. Sturtevant
+1509119	Sankar Subramanian
+1459967	Rosie Jones
+1615603	Steven F. Roth
+1541884	Shamkant B. Navathe
+1550072	Sheng Zhang
+616166	Hans-Werner Six
+1599209	Stefan Berchtold
+1656554	Takeshi Yamada
+853753	Joxan Jaffar
+1697504	Tingjian Ge
+345854	Dana S. Nau
+1230575	Nancy A. Lynch
+206594	Bob Price
+1836831	Yangqiu Song
+796424	Jing Bai
+1550096	Sheng Zhong
+1459998	Rosine Cicchetti
+419597	Duane Szafron
+1877777	Yuan Wang
+247565	Caroline M. Eastman
+1812235	Xiaoguang Wang
+575257	Graham J. Williams
+517908	Frank Leymann
+173846	Bahram Parvin
+796440	Jing Chen
+1165063	Michael Werman
+59165	Alessandro Saffiotti
+1468171	Ruslan Salakhutdinov
+1492745	Saher Esmeir
+902930	Katharina Morik
+591657	Gustavo Alonso
+821035	John K. Tsotsos
+304943	Chuck Freiwald
+821024	John K. Slaney
+1353528	Pietro Perona
+411434	Dong Xin
+1345338	Philip M. Long
+460585	Eric J. Glover
+1681206	Thomas J. E. Schwarz
+960318	Kyuseok Shim
+1238818	Nathan S. Netanyahu
+1623848	Sukho Lee
+1263399	Nivio Ziviani
+1787695	Werner Dilger
+7399236	James M. Rehg
+911160	Kazuo Hashimoto
+1648430	Tadeusz Morzy
+436028	Edwina L. Rissland
+1853222	Yiming Ma
+6793048	S. Sathiya Keerthi
+1902428	Zengping Tian
+296768	Christoph Mangold
+468815	Esra Erdem
+796480	Jing Gao
+862016	Julia Hirschberg
+509769	Francesco Bergadano
+1787723	Werner Emde
+993117	Liefeng Bo
+583515	Gui-Rong Xue
+1853257	Yiming Yang
+1607503	Stéphane Grumbach
+640848	Hidehiko Tanaka
+1156938	Michael I. Jordan
+550741	George Lapis
+1795909	William W. Cohen
+1697606	Tingshao Zhu
+34661	Adrien Bartoli
+755565	Jay M. Tenenbaum
+796522	Jing Jiang
+1369982	Qinghua Hu
+1017696	Luigi Palopoli
+1754990	Vineet Singh
+1574765	Sigal Sahar
+1714018	Tova Milo
+59259	Alessandro Sperduti
+1427305	Richard Szeliski
+509817	Francesco Bonchi
+1001328	Lipyeow Lim
+305028	Chuck Rieger
+608137	Hamad Alhammady
+1714075	Toyoaki Nishida
+1304466	Paolo Merialdo
+6514656	Tom M. Mitchell
+1099668	Marko Robnik-Sikonja
+6760419	Jesús Cerquides
+1763218	Vuk Ercegovac
+1410972	Reda Alhajj
+1730453	Uzi Zahavi
+83859	Amanda Spink
+788377	Jianyong Wang
+952216	Kuiyu Chang
+1361794	Prateek Jain
+1050502	Maguelonne Teisseire
+1353603	Pietro Torasso
+1247108	Niall M. Adams
+1599366	Stefan Brecheisen
+493477	Fatma Ozcan
+1370032	Qinghua Zou
+518048	Frank Manola
+911274	Kazuo Miyashita
+436129	Ee-Peng Lim
+731052	Jaime Teevan
+870308	Jung-Hwan Oh
+1427390	Richard T. Snodgrass
+1910704	Zhi-Hua Zhou
+190386	Benoît Dageville
+1099682	Marko Salmenkivi
+1607595	Stephane Lapointe
+1583019	Sitaram Lanka
+1304485	Paolo Missier
+1353635	Piew Datta
+796603	Jing Peng
+1918885	Zijian Zheng
+837557	Jörg Sander
+1877926	Yuan-Chi Chang
+1181608	Min-Soo Kim 0002
+804791	Joachim Hammer
+1607588	Stéphane Lallich
+1009614	Lotfi A. Zadeh
+649164	Hisashi Kashima
+1025994	Lyublena Antova
+1394642	Rajan M. Lukose
+1542111	Shan Wang
+518095	Frank McSherry
+370638	David K. Gifford
+1796042	William Webber
+747481	Janis A. Bubenko Jr.
+1599435	Stefan Büttcher
+444370	Elisa Bertino
+42964	Aitao Chen
+370652	David K. Hsiao
+6965168	Satinder P. Singh
+313306	Claude Sammut
+1304562	Paolo Paolini
+1132530	Matthijs van Leeuwen
+1304565	Paolo Papotti
+370659	David K. Jefferson
+198629	Bicheng Liu
+1787890	Werner Kießling
+681952	Ian Miguel
+1460221	Ross D. King
+698337	Irwin King
+1853426	Yin Yang
+1009663	Lotfi Lakhal
+59376	Alessandro Vespignani
+1607658	Stéphane Lopes
+1165283	Michael Wurst
+419837	Duc Nghia Pham
+1189865	Miron Livny
+223235	Bryan Kisiel
+403458	Dirk Van Gucht
+1468434	Russell Bent
+477186	Eyal Amir
+1632272	Susan T. Dumais
+1157145	Michael J. Carey
+460810	Eric K. Y. Ho
+1689622	Tianyi Wu
+1640461	Szymon Jaroszewicz
+927771	Kevin S. Beyer
+174100	Baihua Zheng
+1566720	Shuai Ma
+370718	David K. Tcheng
+1853447	Yin Zhang
+1845249	Yaxin Liu
+1271822	Nuwee Wiwatwattana
+1402891	Randy Goebel
+1132592	Matti Kääriäinen
+18465	Aaron Hunter
+116771	Angela Bonifati
+436261	Eero Sormunen
+477220	Eyal Even-Dar
+7260233	Renato de Mori
+1656881	Takuichi Nishimura
+1681456	Thomas J. Walsh
+444463	Élisa Fromont
+313389	Claude-Guy Quimper
+1468479	Russell C. Swan
+985123	Leonardo Tininini
+1501243	Samuel DeFazio
+1099838	Markos Zaharioudakis
+821309	John Krumm
+493621	Faustino J. Gomez
+1599533	Stefan Decker
+1337378	Peter Lyngbæk
+927800	Kevin S. McCurley
+321587	Cordelia Schmid
+1181738	Min-Yen Kan
+1542191	Shan-Hwei Nienhuys-Cheng
+518205	Frank Neven
+7399474	Kotagiri Ramamohanarao
+796742	Jing Zhang
+395340	Didier Dubois
+1345624	Philip R. Cohen
+7399484	Stuart J. Russell
+182348	Bavani Arunasalam
+1394779	Rajarshi Das
+804956	Joachim M. Buhmann
+1484868	S. S. Ravi
+1329222	Peng Huang
+5744642	Sofus A. Macskassy
+976987	Laveen N. Kanal
+477275	Eyal Oren
+428122	Eamonn J. Keogh
+788562	Jianzhong Li
+1337419	Peter M. D. Gray
+1820795	Xinqiang Zuo
+821358	John L. Bresina
+460899	Eric Krotkov
+1394803	Rajasekar Krishnamurthy
+493679	Fausto Giunchiglia
+428136	Eamonn Newman
+772219	Jeong-Hyon Hwang
+1173600	Mihael Ankerst
+1337445	Peter M. G. Apers
+239733	Carl Hewitt
+1091691	Marios Hadjieleftheriou
+854157	Joydeep Ghosh
+26755	Achim G. Hoffmann
+419970	DucDung Nguyen
+1599645	Stefan Edelkamp
+518274	Frank Olken
+7399674	Stephen E. Robertson
+952453	Kumar Chellapilla
+788615	Jianzhuang Liu
+1779863	Weimin Du
+764039	Jeff Z. Pan
+428182	Earl D. Sacerdoti
+1190018	Miroslav Kubat
+43152	Aixin Sun
+739481	James W. Davis
+1058948	Mandar Mitra
+493715	Fausto Rabitti
+477343	Eyhab Al-Masri
+1157256	Michael J. Donahoo
+1812613	Xiaohua Zhou
+1435829	Robert G. Farrell
+100515	Andrea Giovannucci
+166049	Azer Bestavros
+313505	Claudia Bauzer Medeiros
+198822	Bijan Arbab
+927912	Kevin Small
+518305	Frank P. Ferrie
+657570	Horace Enea
+501934	Fernando Pereira
+1812656	Xiaohui Gu
+477353	Eyke Hüllermeier
+583864	Guido Governatori
+1558689	Shinichi Morishita
+1468589	Russell Greiner
+698545	Isaac Cohen
+6760667	Kiriakos N. Kutulakos
+26813	Achim Kraiss
+256193	Chaitanya Mishra
+1312983	Patrick Valduriez
+780494	Ji Zhang
+542926	Gary Marchionini
+1534174	Sergio Flesca
+1779921	Weimin Xiao
+1345753	Philip S. Yu
+1370329	Qinglong Hu
+1337562	Peter M. Schwarz
+1075392	Marcos Salganicoff
+1460421	Ross Mead
+403664	Dit-Yan Yeung
+198868	Bijan Parsia
+477407	Eytan Adar
+7399592	Kanagasabai Rajaraman
+977111	Lawrence A. Rowe
+698582	Isaac G. Councill
+723157	Jaakko Peltonen
+1394933	Rajat Mukherjee
+1812729	Xiaohui Yu
+846057	José Ruiz-Shulcloper
+837862	Jörg-Uwe Kietz
+7399579	Chotirat (Ann) Ratanamahatana
+1394938	Rajat Raina
+149747	Arthur Gretton
+682232	Ian Ruthven
+977149	Lawrence B. Wolff
+1329376	Peng Wang
+264432	Charles J. Petrie
+977144	Lawrence B. Holder
+420081	Duen-Ren Liu
+1566957	Shuang Liu
+1919200	Ziming Zhuang
+1067246	Marc Pickett
+1247468	Nic Wilson
+952591	Kumar V. Vadaparty
+272652	Chenyi Xia
+403724	Divesh Srivastava
+1698068	Tirthankar Lahiri
+1067267	Marc Pollefeys
+829727	Jonathan Baxter
+723230	Jaana Kekäläinen
+813339	Johann Gamper
+1575183	Sihem Amer-Yahia
+1689857	Tibério S. Caetano
+6891848	Fred Damerau
+379174	Davood Rafiei
+1567025	Shuang-Hong Yang
+551200	George P. Copeland
+1206586	Moninder Singh
+1526078	Sébastien Konieczny
+633123	Hema Raghavan
+1460541	Ross Wilkinson
+1075516	Marcus A. Maloof
+1837361	Yanif Ahmad
+1722679	Tzung-Pei Hong
+977215	Lawrence Carin
+624955	Hava T. Siegelmann
+207152	Bogdan Alexe
+7326044	Vasileios Megalooikonomou
+149822	Arthur J. Bernstein
+1304878	Paolo Traverso
+1329451	Peng Zhang
+584009	Guido Moerkotte
+182599	Beat Wüthrich
+559438	Ghassan Z. Qadah
+321859	Corin R. Anderson
+1108311	Martin Mozina
+1214810	Mukesh K. Mohania
+67915	Alexandra Poulovassilis
+461132	Eric Lo
+264522	Charles Kellogg
+1739092	Valter Crescenzi
+371029	David Kortenkamp
+1419585	Ricard Gavaldà
+1821007	Xintao Wu
+1714508	Tracy Pham
+616799	Hao Chen
+1534273	Sergio Greco
+682322	Ian Soboroff
+919892	Kenichi Takahashi
+1648962	Tae-Kyun Kim
+1214793	Mukesh Dalal
+1501558	Samuel Ieong
+1419632	Ricardo A. Baeza-Yates
+43366	Ajay Gupta
+1001833	Lisa Ballesteros
+518510	Frank Ramsak
+977250	Lawrence D. Bergman
+1837426	Yaniv Bernstein
+1780085	Weining Zhang
+756090	Jayant R. Haritsa
+1780074	Weining Qian
+723321	Jaap Kamps
+977277	Lawrence Davis
+1108326	Martin Müller 0003
+264563	Charles L. A. Clarke
+1427810	Richard Washington
+862580	Julia Stoyanovich
+756080	Jayant Madhavan
+821617	John Langford
+944525	Kornél G. Markó
+584064	Guido Proietti
+772483	Jeonghee Yi
+1264024	Noam Slonim
+215436	Brett W. Bader
+928154	Kevin W. Bowyer
+1591694	Sophie Cluet
+84375	Amarnath Gupta
+616862	Hao He
+805269	Joachim W. Schmidt
+280985	Chin-Wan Chung
+1616261	Steven K. Donoho
+1010095	Louiqa Raschid
+1157553	Michael J. Maher
+1354167	Pin-Kwang Eng
+485796	Fabrice Guillet
+870844	Junghoo Cho
+321969	Corinna Cortes
+1583534	Siva Ravada
+264637	Charles L. Viles
+1395114	Rajeev Motwani
+1411540	Regina Barzilay
+657865	Horst Bischof
+199111	Bikramjit Banerjee
+1337810	Peter Meer
+1247706	Nicholas Ayache
+1853909	Ying Chen
+51659	Alban Grastien
+1165786	Michail G. Lagoudakis
+420301	Dulce B. Ponceleon
+985540	Leonid Libkin
+1714646	Tran Cao Son
+436681	Efthimis N. Efthimiadis
+641497	Hidenori Itoh
+1173953	Mihai Lupu
+657883	Horst D. Simon
+543194	Gary S. Kahn
+149974	Arthur M. Farley
+305618	Chun Chen
+1812928	Xiaojin Zhu
+281049	Chin-Yew Lin
+149980	Arthur M. Keller
+1395146	Rajeev Rastogi
+7326094	Thomas Andreas Meyer
+1853949	Ying Feng
+1559028	Shinji Kawasoe
+920040	Kenji Abe
+6351238	Jugal K. Kalita
+215525	Brian A. Haugh
+1501681	Samuel Kaski
+1903094	Zeynep Kiziltan
+174575	Balachander Krishnamurthy
+764389	Jeffrey A. Barnett
+7268766	Nathan Srebro
+297460	Christoph Walther
+6859160	Paul H. Morris
+977404	Lawrence H. Staib
+1362403	Praveen Seshadri
+453124	Emine Yilmaz
+215553	Brian A. Nixon
+559627	Gheorghe Muresan
+723471	Jacco van Ossenbruggen
+1673756	Theo Härder
+985607	Leonid Peshkin
+1673745	Theo Gevers
+1313304	Patrik Haslum
+7326335	Thomas P. Minka
+1886733	Yumao Lu
+59923	Alex Alves Freitas
+502290	Fernando Vélez
+510494	Francesco M. Malvestuto
+158232	Athman Bouguettaya
+18970	Aaron Sloman
+510493	Francesco M. Donini
+379417	Dawei Song
+371227	David L. Dowe
+1092110	Maristella Agosti
+1690169	Tie-Yan Liu
+420386	Duminda Wijesekera
+879144	K. Bernhard Schiefer
+1165882	Michail Vlachos
+27181	Ada Wai-Chee Fu
+1739316	Van E. Kelly
+559655	Gheorghe Tecuci
+1616425	Steven L. Lytinen
+952891	Kun Liu
+1075751	Marcus Fontoura
+1002040	Lisa F. Rau
+395839	Diego Calvanese
+272957	Cheong Hee Park
+928311	Kevin Y. Yip
+977460	Lawrence J. Mazlack
+363065	Davi Geiger
+649780	Hitoshi Isahara
+1853985	Ying Hu
+1067565	Marc Sebban
+346683	Daniel A. Keim
+617035	Hao Yang
+174664	Balaji Padmanabhan
+895559	Karen L. Myers
+1436248	Robert Gwadera
+1305182	Parag Singla
+305738	Chun Kit Chui
+1215043	Mukund Narasimhan
+936541	Kitsana Waiyamai
+166481	Azriel Rosenfeld
+182865	Béatrice Finance
+1198660	Mohammad Mahdian
+1157703	Michael J. Pazzani
+780892	Ji-Rong Wen
+813652	Johanna D. Moore
+1215051	Mukund Raghavachari
+191070	Benyu Zhang
+1641028	T. Anthony Marsland
+133725	Anton Leuski
+346724	Daniel A. Menascé
+993902	Lihong Li
+1419895	Ricardo Caferra
+977516	Lawrence K. Saul
+1387121	Rachel Pottinger
+215652	Brian Babcock
+928361	Kevyn Collins-Thompson
+387693	Dennis DeCoste
+1886838	Yumi Iwasaki
+1854071	Ying Lu
+1854060	Ying Liu
+690808	In-Su Kang
+985721	Leonidas Fegaras
+641663	Hideo Joho
+6957596	Jeffrey Xu Yu
+625278	Hayato Yamana
+1321580	Paulo Braz Golgher
+698995	Isabel F. Cruz
+1854054	Ying Li
+1428079	Richmond H. Thomason
+584307	GuiHong Cao
+35453	Afsaneh Shirazi
+494214	Fazli Can
+363137	David A. Bell
+1075865	Marcus Hutter
+969344	Larry A. Rendell
+756378	Jayavel Shanmugasundaram
+928415	Kewen Wang
+952989	Kun Zhang
+1075844	Marcus Herzog
+1485455	S. Seshadri
+830102	Jonathan D. Becher
+363166	David A. Brant
+1763975	W. Bruce Croft
+1280653	Olivier Gascuel
+1149617	Mete Celik
+174753	Balakrishna R. Iyer
+1002155	Lisa Hellerstein
+1206967	Monte Zweben
+1632959	Susanne E. Hambrusch
+1919671	Ziv Bar-Yossef
+305838	Chun Tang
+7326404	B. S. Manjunath
+461483	Eric N. Hanson
+1780406	Weiru Liu
+240302	Carl-Christian Kanne
+1338042	Peter Muth
+1436324	Robert H. Gerber
+1231520	Nandit Soparkar
+248501	Carsten Binnig
+1837739	Yanlei Diao
+1346222	Philipp Cimiano
+142015	Aravind K. Joshi
+240318	Carl-Fredrik Westin
+1567401	Shubha U. Nabar
+1813156	Xiaojun Wan
+387780	Dennis F. Kibler
+469711	Esther Pacitti
+76488	Alice X. Zheng
+1788629	Wesley W. Chu
+166604	Azzah Al-Maskari
+1338053	Peter N. Belhumeur
+666331	Hubie Chen
+551643	George Samaras
+387793	Dennis Fetterly
+1174212	Mihalis Yannakakis
+1059527	Manfred Hauswirth
+1616580	Steven M. Beitzel
+1608391	Stephanie J. Cammarata
+1854205	Ying Yang
+1788664	Wessel Kraaij
+1854203	Ying Yan
+641774	Hideo Shimazu
+371436	David L. Roberts
+1157883	Michael J. Swain
+1698547	Toan Luu
+1010405	Louis I. Steinberg
+543458	Gary William Flake
+1059578	Manfred K. Warmuth
+281327	Ching-Chi Hsu
+1067771	Marc Toussaint
+1854192	Ying Xing
+1854195	Ying Xu 0002
+461559	Eric Nyberg
+1108709	Martin Pfeifle
+305917	Chun Zhang
+1854181	Ying Wu
+789238	Jiawei Han
+486139	Fabrizio Angiulli
+5933735	Richard Alterman
+1059567	Manfred Jaeger
+1854237	Ying Zhao
+7326574	M. Narasimha Murty
+142080	Aravind Yalamanchi
+7326572	Ashwin Machanavajjhala
+1551123	Shenghua Bao
+174852	Balaraman Ravindran
+1813277	Xiaokui Xiao
+1854234	Ying Zhang
+1403679	Ranjit Nair
+1100571	Markus Hegland
+232200	C. Mohan
+1493786	Saikat Mukherjee
+1444635	Robin Cohen
+568069	Giuseppe Attardi
+1248028	Nicholas E. Taylor
+322326	Cornelia Fermüller
+6196044	Anup K. Sen
+609050	Hamid Pirahesh
+1157890	Michael J. Taylor
+371474	David L. Spooner
+338719	Dacheng Tao
+346906	Daniel Alexander Ford
+363309	David A. Evans
+224043	Bugra Gedik
+633632	Hendrik Blockeel
+1354553	Ping Wu
+1182498	Ming Hua
+7326559	Kathleen McKeown
+7007064	Michael J. Cafarella
+953148	Kun-Lung Wu
+371505	David L. Waltz
+7326555	Marie-Francine Moens
+27448	Adam Bosworth
+494397	Federica Mandreoli
+1674018	Theodora Tsikrika
+1846049	Yee Whye Teh
+142146	Arbee L. P. Chen
+559947	Gholamreza Nakhaeizadeh
+1108822	Martin Potthast
+363330	David A. Forsyth
+1788755	Wheeler Ruml
+633664	Hendrik Decker
+150348	Arthur Zimek
+1616713	Steven M. Seitz
+625501	Haym Hirsh
+404307	Djemel Ziou
+1551182	Shenghuo Zhu
+1157962	Michael J. Witbrock
+461658	Eric Paquet
+953199	Kun-Ta Chuang
+1117043	Masamichi Shimura
+1182576	Ming Li
+240487	Carla E. Brodley
+1756028	Vipin Kumar
+207716	Boi Faltings
+1133433	Maureen Donnelly
+1846132	Yefei Peng
+6695690	Genady Grabarnik
+1239934	Naveen Ashish
+84844	Ambuj K. Singh
+297834	Christophe de Maindreville
+543608	Gaston H. Gonnet
+363383	David A. Grossman
+887679	Kai Ming Ting
+84850	Ambuj Shatdal
+1428326	Rick Kjeldsen
+928634	Keyun Hu
+7326489	R. Manmatha
+1493857	Sailesh Krishnamurthy
+404345	Djoerd Hiemstra
+764788	Jeffrey C. Schlimmer
+6745062	Robert M. Haralick
+625547	Hayri Sever
+1575839	Silvana Castano
+1264537	Nobuhiro Yugami
+1092506	Marius Pasca
+568195	Giuseppe Carenini
+1813399	Xiaolei Li
+904093	Kathleen Fisher
+641945	Hideto Ikeda
+314262	Claudia Perlich
+1387398	Rachid Deriche
+1215365	Muneaki Ohshima
+314269	Claudia Picardi
+1674114	Theodore Dalamagas
+1887106	Yun Chi
+1084336	Maria Zemankova
+379813	Daxin Jiang
+1395635	Rajesh P. N. Rao
+1461180	Roxana Girju
+519082	Frank van Harmelen
+297897	Christophe Dousson
+1747893	Victor Lavrenko
+1616808	Steven Minton
+60337	Alex Delis
+7490499	Radu Horaud
+363447	David A. Hull
+314288	Claudia Plant
+814008	Johannes Aßfalg
+1182628	Ming Mao
+986040	Leora Morgenstern
+1559471	Shinsaku Hiura
+502718	Fidel Cacheda
+1813408	Xiaolei Qian
+322495	Cornelis H. A. Koster
+781232	Jia Li
+748470	Janusz Marecki
+641975	Hideto Yokoi
+1166255	Michal Irani
+592842	Guy M. Lohman
+248773	Carsten Lanquillon
+1919956	Ziyang Liu
+1108953	Martin Rajman
+109515	Andrew G. Barto
+887750	Kai Puolamäki
+1412059	Régis Saint-Paul
+1526724	See-Kiong Ng
+7367590	Richard P. Wildes
+1756096	Vipul Kashyap
+1321934	Paulo J. Azevedo
+822226	John M. Prager
+404441	Dmitri A. Dolgov
+248802	Carsten Lutz
+1551350	Shengli Sheng
+1723391	U. Prädel
+1551359	Shengli Wu
+297965	Christophe G. Giraud-Carrier
+1879031	Yuanlin Zhang
+265205	Charles R. Dyer
+7326622	Munirathnam Srikanth
+1813481	Xiaoli Li
+723961	Jack A. Orenstein
+568319	Giuseppe De Giacomo
+84982	Ameet Kini
+1182696	Ming Tan
+1256430	Niki Pissinou
+1674214	Theodore J. Perkins
+5942362	Ben Carterette
+240643	Carla P. Gomes
+1182746	Ming Yang
+1444895	Robin J. Popplestone
+953349	Kunal Punera
+7326820	Jalal Mahmud
+969731	Larry Kerschberg
+420885	Dunja Mladenic
+920605	Kenji Yamanishi
+846879	Josef Kittler
+764959	Jeffrey D. Ullman
+674847	Hyoung-Joo Kim
+896020	Karen Sparck Jones
+158748	Atsuhiro Takasu
+1313802	Pattie Maes
+1190960	Mitch Cherniack
+511012	Francesco Scarcello
+1133621	Maurice A. W. Houtsma
+1362992	Prem Melville
+1846324	Yehoshua Perl
+1846325	Yehoshua Sagiv
+1371198	Qingzhao Tan
+1838135	Yann Chevaleyre
+1616947	Steven P. Ketchpel
+1625140	Sumit Ganguly
+822335	John M. Winn
+683065	Ibrahim Kamel
+1887279	Yun Peng
+1748014	Victor M. Markowitz
+1526816	Seema Sundara
+363581	David A. McAllester
+1248297	Nicholas J. Belkin
+527411	Fusheng Wang
+150591	Artur Bykowski
+109633	Andrew Gelsey
+822349	John M. Zelle
+691275	Inderpal Singh Mumick
+691273	Inderpal Narang
+1018954	Luis Fariñas del Cerro
+134212	Antonella Guzzo
+1133656	Maurice Bruynooghe
+7326758	Ioana Manolescu
+379983	Dayne Freitag
+1322073	Paulo Martins Engel
+560198	Gia Toan Nguyen
+691268	Inderjit S. Dhillon
+1797204	Winfried Lamersdorf
+1182785	Ming Zhang
+404574	Dmitri Roussinov
+1051723	Mahesh Jagannath
+1182798	Ming Zhou
+109663	Andrew Gilpin
+666731	Hugh E. Williams
+101475	Andrea Pugliese
+1133682	Maurice Coyle
+1215607	Munindar P. Singh
+1010794	Louis Wehenkel
+527456	Fusun Yaman
+347247	Daniel Barbara
+486509	Fabrizio Sebastiani
+5794868	Robert T. Chien
+592997	Guy Shani
+986209	Les Gasser
+1821812	Xiong Wang
+420969	Duo Zhang
+617595	Haofeng Zhou
+1846378	Yehuda Lindell
+1887333	Yun Sing Koh
+265342	Charles Rich
+404604	Dmitri V. Kalashnikov
+1846374	Yehuda Koren
+1264751	Nobuo Ohbo
+486522	Fabrizio Silvestri
+1387624	Rada Chirkova
+1281171	Olivier Raiman
+543884	Gaurav Pandey
+6229210	Apostol Natsev
+339072	Dae-Ki Kang
+1363091	Premkumar T. Devanbu
+1625233	Sumit Negi
+5614814	Juan M. Fernández-Luna
+1780885	Weixiong Zhang
+519304	Frank Wm. Tompa
+76947	Alin Deutsch
+1305728	Paris C. Kanellakis
+1141892	Mehdi T. Harandi
+519313	Frank Wolter
+76950	Alin Dobra
+1625219	Sumit Mittal
+1887360	Yun Wang
+552086	George W. Ernst
+1215628	Munir Cochinwala
+1543347	Shankar A. Rajamoney
+593069	Guy W. Mineau
+1682622	Thomas Lukasiewicz
+298157	Christophe Lécluse
+126120	Annalisa Appice
+830631	Jonathan Goldstein
+1174717	Mika Klemettinen
+765095	Jeffrey F. Naughton
+412841	Donghui Zhang
+1854636	Ying-li Tian
+27824	Adam Farquhar
+830652	Jonathan Gratch
+1887407	Yun Zhou
+298160	Christophe Lecoutre
+388274	Dennis McLeod
+912567	Ke Wang
+183480	Bee-Chung Chen
+1510573	Saori Kawasaki
+969909	Larry R. Harris
+1911970	Zhigang Zhu
+912589	Ke Yang
+1051860	Mahesh V. Joshi
+1412307	Reid G. Smith
+1412306	Reid G. Simmons
+912586	Ke Xu
+470222	Ethem Alpaydin
+1338586	Peter Pistor
+584902	Guilin Qi
+969948	Larry S. Davis
+77010	Alina Beygelzimer
+888030	Kai Zhang
+1600717	Stefan Krämer
+445649	Elisha Sacks
+1002711	Lisa Singh
+888020	Kai Yu
+1223880	N. S. Sridharan
+257241	Chandra Kambhamettu
+290014	Christian Jacquemin
+912593	Ke Yi
+1658052	Tal Shaked
+1076430	Marcus-Christopher Ludl
+1543415	Shankar Pal
+93408	Ana-Maria Popescu
+691432	Indrajit Bhattacharya
+1182961	Ming-Chien Shan
+814313	Johannes Fürnkranz
+1772797	Wang-Chien Lee
+208105	Bolin Ding
+1715441	Trevor Darrell
+240876	Carles Sierra
+158961	Atsushi Fujii
+814335	Johannes Gehrke
+920829	Kenneth A. Ross
+634106	Heng Tao Shen
+1248531	Nicholas Kushmerick
+281862	Ching-Pin Kao
+724238	Jack G. Conrad
+1658143	Talal Rahwan
+642311	Hideyuki Nakashima
+232716	C. P. Wang
+1633559	Sushil Jajodia
+1289500	Özgür Simsek
+1461508	Roy Goldman
+1387777	Radek Vingralek
+781587	Jia-Huai You
+1002774	Lisa Torrey
+1780999	Weiyi Meng
+1158415	Michael Kass
+1240332	Navin Kabra
+85278	Amélie Marian
+568616	Giuseppe Manco
+1101104	Markus M. Breunig
+544041	Gautam Bhargava
+544045	Gautam Biswas
+1912122	Zhihai Wang
+1576242	Silvia Coradeschi
+1617203	Steven Reece
+1568060	Shuhei Aida
+175404	Bamshad Mobasher
+1133856	Maurice Pagnucco
+544059	Gautam Das
+437555	Ehud Gudes
+1772845	Wang-Pin Hsiung
+1846565	Yelena Yesha
+970036	Larry Travis
+1740065	Vanessa Murdock
+1289518	Özgür Ulusoy
+503097	Filip Radlinski
+920910	Kenneth Basye
+101703	Andrea Schaerf
+437582	Ehud Rivlin
+216395	Brian F. Cooper
+1920343	Zoé Lacroix
+437580	Ehud Reiter
+1207646	Mor Harchol-Balter
+134480	Antoni Olivé
+1183041	Ming-Chuan Wu
+1846600	Yeliz Yesilada
+1518912	Savitha Srinivasan
+6409531	Anne Denton
+6122753	Lourdes Peña Castillo
+511323	Francine Chen
+1895747	Yuzuru Tanaka
+6073660	Gerald Tesauro
+159074	Atsushi Iwasaki
+1379700	R. James Firby
+388452	Dennis R. McCarthy
+748904	Jared L. Darlington
+372064	David M. Blei
+347490	Daniel Boley
+216424	Brian Falkenhainer
+1207651	Mor Naaman
+1142112	Mehmet Altinel
+1133923	Maurice van Keulen
+462192	Eric Sedlar
+806263	Joann J. Ordille
+1469805	Ruud M. Bolle
+437629	Eibe Frank
+1502570	Samy Bengio
+1396073	Rajiv Mehrotra
+363908	David A. Wroblewski
+1674650	Theoni Pitoura
+1019274	Luis Gravano
+347523	Daniel Borrajo
+978310	Le Gruenwald
+945543	Kothuri Venkata Ravi Kanth
+134537	Antoni Wolski
+1232259	Naoki Abe
+1133954	Mauricio A. Hernández
+896414	Kari Torkkola
+1158533	Michael Kifer
+7409109	Robert C. Holte
+1920436	Zografoula Vagena
+1863094	Yongjian Fu
+1682867	Thomas M. Tirpak
+552355	Georges Dupret
+290223	Christian Kleinerman
+1617332	Steven Schockaert
+822689	John McPherson
+462248	Eric Simon
+7409093	Abdelsalam Helal
+1682860	Thomas M. Strat
+298417	Christophe Rigotti
+1699244	Tobias Kellner
+552382	Georges Gardarin
+1437101	Robert J. Hall
+454079	Emmanuel Hebrard
+1281449	Oliviero Stock
+970165	Lars Arge
+896432	Kari-Jouko Räihä
+1314217	Paul A. Viola
+921008	Kenneth C. Sevcik
+7007701	Tessa A. Lau
+1183184	Ming-Feng Tsai
+970186	Lars Backstrom
+314819	Claudio Bettini
+511439	Francis C. Chu
+830918	Jonathan J. Hull
+265684	Charles V. Stewart
+1748427	Victor R. Lesser
+404946	Dmitry B. Goldgof
+1715663	Trevor Strohman
+1215943	Murali Mani
+28118	Adam J. Grove
+273874	Chew Lim Tan
+1437122	Robert J. Hilderman
+1371596	Qiong Luo
+7409065	James A. Hendler
+986583	Leslie G. Valiant
+1084874	Marian H. Nodine
+830934	Jonathan J. Oliver
+552403	Georges Hébrail
+1068492	Marcel J. T. Reinders
+1109454	Martin Scholz
+568790	Giuseppe Pelagatti
+929261	Khaled Alsabti
+1895928	Yves Chiaramella
+519663	Frans Coenen
+1338876	Peter Raulefs
+216554	Brian Gallagher
+1781234	Weizhu Chen
+1428991	Rie Kubota Ando
+1068540	Marcel Kornacker
+1789430	Wilburt Labio
+1002977	Lise Getoor
+7409054	Holger H. Hoos
+1699307	Tobias Kraft
+1920494	Zohar Manna
+765432	Jeffrey Johns
+1715693	Trevor Walker
+790006	Jicheng Zhao
+1011185	Louise Travé-Massuyès
+314884	Claudio Carpineto
+1855005	Yingbo Miao
+1068563	Marcel Kutsch
+568843	Giuseppe Psaila
+429583	Eddie Schwalb
+1601041	Stefan Manegold
+978439	Le Song
+749058	Jarek Gryz
+28170	Adam J. Storm
+765440	Jeffrey Junfeng Pan
+863750	Juliana Freire
+1691157	Tijl De Bie
+822785	John Miles Smith
+388616	Dennis Tsichritzis
+200204	Bill Triggs
+921089	Kenneth D. Forbus
+814620	Johannes Klein
+552473	Georges Quénot
+355863	Daniela Florescu
+7409250	Edith Hemaspaandra
+1216011	Muralidhar Krishnaprasad
+937519	Kjetil Nørvåg
+1748542	Victor S. Lempitsky
+110119	Andrew J. Davenport
+421431	Dushan Z. Badal
+7409224	Joshua Zhexue Huang
+1502762	San-Yih Hwang
+724532	Jack Minker
+757321	Jean Ferrié
+847439	Josep Lluís Arcos
+282177	Ching-Yung Lin
+1388115	Radim Sára
+1789522	Wilfred Ng
+1912402	Zhihua Zhang
+257618	Chandrika Kamath
+1633871	Susumu Horiguchi
+306782	Chun-Nan Hsu
+1658438	Tam Minh Tran
+1470070	Ruzena Bajcsy
+1060464	Manish Arya
+192097	Bernard J. Jansen
+986732	Leslie Pack Kaelbling
+249447	Casimir A. Kulikowski
+577133	Gregg Collins
+1314418	Paul B. Kantor
+339567	Dafna Shahaf
+1805937	Xia Lin
+1060475	Manish Bhide
+1076860	Marek Kretowski
+1740405	Vanja Josifovski
+429687	Eddy Mayoraz
+1896046	Yves Grandvalet
+1568353	Shui-Lung Chuang
+1420909	Ricardo Silva
+560757	Gian Piero Zarri
+790131	Jie Chen
+5730007	Bert Van der Linden
+1896092	Yves Kodratoff
+790154	Jie Cheng
+1560208	Shipeng Yu
+396942	Dieter Fox
+216714	Brian Harrington
+388750	Denny
+1142431	Mehmet Koyutürk
+1568384	Shuicheng Yan
+1699457	Tobias Mayr
+396959	Dieter Gawlick
+93853	Anand Deshpande
+568980	Giuseppe Sindoni
+888464	Kai-Uwe Sattler
+822929	John Mylopoulos
+265882	Charles X. Ling
+28319	Adam Kowalczyk
+208545	Bongki Moon
+69283	Alexandre Termier
+44710	Akifumi Makinouchi
+413344	Dongmei Ren
+1216184	Murat Dundar
+741031	Jan Chomicki
+1609396	Stephen Blott
+831137	Jonathan L. Herlocker
+1248957	Nicholas Roy
+1814185	Xiaoming Li
+1117858	Masaru Kitsuregawa
+372413	David M. Pennock
+1183401	Ming-Hsuan Yang
+913075	Kee-Eung Kim
+5762793	David S. Wile
+1814181	Xiaoming Jin
+69313	Alexandre V. Evfimievski
+1724122	Udo Grimmer
+470725	Etzard Stolte
+1347287	Philippe Bonnet
+872136	Junjie Wu
+1724127	Udo Hahn
+995016	Lilian Harada
+5951122	Stefan M. Rüger
+667331	Hugo Larochelle
+85704	Amihai Motro
+85708	Amihood Amir
+1838803	Yannis E. Ioannidis
+1404634	Raphael Volz
+1666762	Ted Pedersen
+1412801	Reiner Kraft
+28372	Adam L. Berger
+347859	Daniel C. Zilio
+388829	Denver Dash
+1248970	Nicholas S. Flann
+175835	Banu Özden
+773847	Jeremy Kubica
+1896130	Yves Lespérance
+782060	Jia-Yu Pan
+7409304	Xiaohua Hu
+1068794	Marcel Schoppers
+790240	Jie Lu
+1322744	Pavel Berkhin
+1838834	Yannis Kotidis
+1453817	Rómer Rosales
+1887979	Yun-Wu Huang
+1617632	Steven W. Norton
+1355501	Piotr Faliszewski
+1593059	Sougata Mukherjea
+790263	Jie Peng
+1494762	Sakti P. Ghosh
+1060588	Manish Mehta 0002
+413435	Dongmo Zhang
+1421032	Ricardo Vilalta
+1494763	Sakti Pramanik
+1109742	Martin Staudt
+7409521	Trevor Hastie
+1527572	Seiji Yamada
+1142551	Mehmet Sayal
+1077014	Marek Petrik
+1691409	Till Westmann
+798468	Jingren Zhou
+1322781	Pável Calado
+1838871	Yannis Papakonstantinou
+937728	Klaudia Hergula
+1781524	Wen Jun Yin
+1044253	M. Tamer Özsu
+1216257	Murat Kantarcioglu
+372508	David M. Steier
+6369147	Javed A. Aslam
+1781505	Wen Jin
+1322767	Pavel Brazdil
+519964	Franz Barachini
+519962	Franz Baader
+1617669	Steven W. Zucker
+1838850	Yannis Manolopoulos
+1158960	Michael L. Brodie
+380708	Dean Jacobs
+552746	Georgia Koutrika
+1838904	Yannis Theodoridis
+585518	Guillaume Raschia
+642862	Hilan Bensusan
+790308	Jie Tang
+1568574	Shuigeng Zhou
+634656	Henk Ernst Blok
+552738	Georgia Koloniari
+69418	Alexandrin Popescul
+1838892	Yannis Sismanis
+5730148	Eric Grimson
+364337	David B. Cooper
+6074219	Ihab F. Ilyas
+20279	Abdel-Illah Mouaddib
+1429293	Riichiro Mizoguchi
+1101613	Markus Schedl
+184127	Behzad Mortazavi-Asl
+159554	Atsuyoshi Nakamura
+1584984	Slobodan Vucetic
+503618	Filippo Menczer
+487232	Fahiem Bacchus
+200523	Bin Cao
+159563	Atsuyuki Morishima
+200527	Bin Chen
+208719	Bonnie J. Dorr
+536409	Gabriel Ghinita
+282455	Chinya V. Ravishankar
+1077060	Marek Rusinkiewicz
+503635	Filippo Neri
+634716	Henk M. Blanken
+1355585	Piotr Indyk
+200532	Bin Cui
+1396556	Rakesh Agrawal
+315230	Claudio Lucchese
+1666883	Teddy Candale
+143198	Ari Pirkola
+1838912	Yannis Vassiliou
+405338	Dmitry Pavlov
+1838913	Yannis Velegrakis
+1355594	Piotr J. Gmytrasiewicz
+274278	Chi-Chao Chang
+397157	Dieter Merkl
+1806200	Xian Wu
+200550	Bin Gao
+937835	Klaus Berberich
+69476	Alexandros Biliris
+733025	James A. Larson
+1544061	Shantanu Godbole
+1159034	Michael L. Heytens
+5730107	S. V. N. Vishwanathan
+257900	Chang Luo
+495464	Fei Sha
+790396	Jie Zhang
+364405	David B. Kemp
+7409408	Eui-Hong Han
+200562	Bin He
+495476	Fei Song
+1797998	Witold Lukaszewicz
+94068	Anand Rajaraman
+1797997	Witold Litwin
+1797996	Witold Lipski Jr.
+216948	Brian J. Reiser
+1879908	Yuchang Lu
+1126251	Matthai Philipose
+1658725	Tamara G. Kolda
+929650	Khaled Yagoub
+200574	Bin Jiang
+790385	Jie Yin
+454520	Emmanuel Waller
+511864	Francis R. Bach
+1748837	Victor Vianu
+94081	Anand Ranganathan
+1535894	Seth J. White
+1535893	Seth J. Teller
+1347479	Philippe Cudré-Mauroux
+888713	Kaidi Zhao
+5763027	Victor S. Sheng
+1527697	Seishi Okamoto
+1159063	Michael L. Littman
+495488	Fei Wang
+176005	Bao-Gang Hu
+495503	Fei Wu
+1109912	Martin Szummer
+241546	Carlo Strapparava
+5836755	Michael J. Franklin
+372616	David Madigan
+1167260	Michalis Petropoulos
+1159070	Michael L. Mauldin
+356245	Daniela Rus
+135058	Antonio Albano
+241554	Carlo Tasso
+413589	Dongqing Yang
+94100	Anand S. Rao
+1888137	Yunbo Cao
+5730242	João Gama
+937881	Klaus Brinker
+1798028	Witold Staniszkis
+364434	David B. Lomet
+1134473	Maurizio Atzori
+1699715	Tobias Scheffer
+372633	David Maier
+1290127	P. Anandan
+552854	Georgiana Ifrim
+397208	Dieter Pfoser
+241564	Carlo Tomasi
+7409617	Berthold K. P. Horn
+5951482	Howard E. Shrobe
+200610	Bin Liu
+1396663	Rakesh Kumar
+790441	Jie-Bing Yu
+380835	Dean Pomerleau
+1167291	Michalis Vazirgiannis
+69549	Alexandros Kalousis
+1757098	Vishal S. Batra
+733115	James A. Reggia
+184242	Bei Yu
+1347492	Philippe Dague
+44977	Akihiro Inokuchi
+1568677	Shuiwang Ji
+1814441	Xiaoou Tang
+1167267	Michalis Potamias
+1863599	Yongluan Zhou
+94133	Anand Sivasubramaniam
+151482	Arun Iyengar
+470973	Eugene Agichtein
+823216	John Oliensis
+5836775	Johann Christoph Freytag
+970673	Lars Karlsson
+241603	Carlo Zaniolo
+561098	Gianfranco R. Putzolu
+1339350	Peter Schäuble
+1314775	Paul Brown
+774092	Jeremy Pickens
+978889	Leah S. Larkey
+905156	Kathryn S. McKinley
+462798	Eric Wiewiora
+1871831	Young-Koo Lee
+1093596	Mark A. Jones
+569284	Gjergji Kasneci
+683975	Ido Dagan
+1109981	Martin Theobald
+1847244	Yen-Yu Chen
+1863630	Yongmei Liu
+69587	Alexandros Labrinidis
+5730180	Gemma C. Garriga
+1372103	Qiudan Li
+503775	Fillia Makedon
+1757124	Vishal Sikka
+45024	Akihiro Kishimoto
+159714	Attila Gyenesei
+364516	David B. Skalak
+1339377	Peter Scheuermann
+36844	Agustin A. Araya
+200686	Bin Tan
+667620	Hugo Zaragoza
+1814507	Xiaopeng Xi
+733178	James A. Thom
+765945	Jeffrey O. Kephart
+1568739	Shuji Doshita
+69620	Alexandros Nanopoulos
+1814510	Xiaopeng Xiong
+1503214	Sanda M. Harabagiu
+1634273	Suvrit Sra
+69624	Alexandros Ntoulas
+7286677	Ian P. Gent
+7409547	Alon Y. Halevy
+471037	Eugene C. Freuder
+200696	Bin Wang
+667633	Hugues Bersini
+200701	Bin Wei
+1060847	Manjeet Rege
+1806362	Xian-Sheng Hua
+5795934	Lee D. Erman
+1609759	Stephen D. Bay
+471054	Eugene Charniak
+1413151	Reinhard Pichler
+135181	Antonio Badia
+1593354	Soumen Chakrabarti
+151568	Arun Kumar
+135185	Antonio Bahamonde
+282642	Chirag Shah
+5984321	Jana Koehler
+1560585	Shirish Krishnaj Shevade
+7409744	Steven C. H. Hoi
+1421364	Riccardo Martoglia
+1241136	Nazli Goharian
+1142843	Mehran Sahami
+1798192	Wlodek Zadrozny
+938019	Klaus Elhardt
+528421	G. Barbara Demo
+7409731	Edwin R. Hancock
+1183782	Ming-Ling Lo
+6066281	Silviu Cucerzan
+495665	Feida Zhu
+1101863	Markus Tresch
+1232933	Naomi Inoue
+1536046	Sethu Vijayakumar
+200761	Bin Zhang
+1118255	Masashi Sugiyama
+946250	Koustuv Dasgupta
+192583	Bernard Zenko
+323649	Craig A. Knoblock
+1134676	Maurizio Lenzerini
+6606882	Donna Harman
+741452	Jan Flokstra
+536647	Gabriel M. Kuper
+733274	James Allan
+61525	Alex Rogers
+208981	Boon Thau Loo
+45143	Akihiro Shibata
+1536079	Setrag Khoshafian
+1683521	Thomas O. Binford
+208984	Boon Toh Low
+1667143	Tefko Saracevic
+544855	Ge Cong
+1273971	Octavia I. Camps
+217187	Brian Kulis
+1126512	Matthew B. Koll
+5951544	Abraham Silberschatz
+315495	Claudio Rullent
+1708158	Tomoyuki Uchida
+1151095	Michael A. Goodrich
+987241	Letizia Tanca
+995432	Lillian Lee
+1503345	Sandeep Gupta
+348269	Daniel D. Corkill
+5836849	Jerome A. Feldman
+790631	Jiefeng Cheng
+1781872	Wen-Chi Hou
+430186	Edgar Meij
+151663	Arun N. Swami
+274537	Chi-Hoon Lee
+1691764	Tim Berners-Lee
+1536102	Setsuo Arikawa
+1454183	Ron Bekkerman
+1658988	Tamás Gergely
+1388642	Radu Marinescu
+446591	Elizabeth J. O'Neil
+503932	Finnegan Southey
+1536106	Setsuo Ohsuga
+159868	Attilio Giordana
+1642651	T. H. Merrett
+5837009	Alvaro A. A. Fernandes
+667779	Hui Fang
+299151	Christopher C. Yang
+94346	Anant Jhingran
+561284	Gianluca Demartini
+1159324	Michael Lebowitz
+1101982	Markus Wawryniuk
+1331354	Periklis Andritsos
+372884	David McArthur
+544921	Ge Yu
+1724555	Ugur Çetintemel
+651419	Hoifung Poon
+192657	Bernardo Cuenca Grau
+823451	John P. McDermott
+1306763	Pascal Felber
+1773697	Waqar Hasan
+1659013	Tamás Horváth
+700566	Isidore Rigoutsos
+159907	Atul Adya
+6951115	Magdalena Ortiz
+1274039	Octavian Udrea
+356513	Daniele Braga
+1781951	Wen-Chih Peng
+1380531	R. L. Beurle
+1724593	Ugur Kuter
+782496	Jiaheng Lu
+323759	Craig Boutilier
+471210	Eugene Inseok Chong
+1740981	Vasant Dhar
+889020	Kaile Su
+5730534	Todd J. Green
+37041	Ah-Hwee Tan
+1388711	Radu Sion
+1421479	Riccardo Rosati
+1192097	Mitsuru Ishizuka
+1757353	Vishwa Vinay
+5804268	Alan Bundy
+1306790	Pascal Fua
+5984493	H. V. Jagadish
+1388717	Radu Stefan Niculescu
+1249451	Nick Cercone
+471229	Eugene J. Shekita
+413883	Dongwon Lee
+1249491	Nick Craswell
+1601755	Stefan Schaal
+5984412	Anil K. Jain
+1593567	Soumya Ray
+364748	David Beech
+520393	Franz Wotawa
+6271120	Dong-Hong Ji
+1700041	Tobin J. Lehman
+274645	Chi-Hung Chi
+1233088	Naonori Ueda
+643293	Hillol Kargupta
+667868	Hui Li
+1470657	Ryan Huebsch
+118998	Anh-Tuan Tran
+1839307	Yansheng Lu
+1282250	Omar Alonso
+5730487	Gaile G. Gordon
+119011	AnHai Doan
+438500	Einat Amitay
+1183985	Ming-Syan Chen
+241895	Carlos Agra Coelho
+1593596	Soumyadeb Mitra
+372960	David McSherry
+5984432	Chris Jermaine
+5984437	Theodore Johnson
+635110	Henning Rode
+53487	Alberto H. F. Laender
+1446118	Roderic A. Grupen
+37106	Aharon Bar-Hillel
+946428	Kouzou Ohara
+5730469	Thomas R. Gruber
+438514	Einat Neumann
+1503456	Sandeep Mane
+1421549	Riccardo Torlone
+831729	Jonathan P. Pearce
+1323284	Pavel Serdyukov
+1503509	Sandeep Pandey
+217350	Brian Logan
+1282324	Omar Benjelloun
+495886	Feiping Nie
+1306905	Pascal Jappy
+1421593	Ricco Rakotomalala
+5837141	Tim Finin
+921884	Kenneth Man-kam Yip
+438548	Einoshin Suzuki
+1618187	Stijn Vansummeren
+1306887	Pascal Hitzler
+536862	Gabriel Pui Cheong Fung
+1683727	Thomas P. Reinartz
+1700110	Toby J. Teorey
+69910	Alexandru Niculescu-Mizil
+545041	Gediminas Adomavicius
+758033	Jean Ponce
+1921286	Zonghuan Wu
+602389	Hady Wirawan Lauw
+1003794	Liuba Shrira
+1437963	Robert Krovetz
+119070	Ani Nenkova
+1126670	Matthew Brand
+5951865	Alexander J. Smola
+1241399	Neal Lesh
+1716530	Trong Dung Nguyen
+6148471	João M. B. Cavalcanti
+921891	Kenneth Mark Colby
+1216802	Murray Shanahan
+692538	Ingmar Weber
+143666	Arie Segev
+1757483	Visvanathan Ramesh
+1069345	Marcello Federico
+5837160	César Ferri
+1601833	Stefan Schlobach
+987452	Levent Bolelli
+1315111	Paul Clough
+143669	Arie Shoshani
+282942	Chitta Baral
+1421614	Rich Caruana
+1077548	Margaret E. Connell
+5837082	Eduardo B. Fernández
+1806686	Xiang Ji
+323905	Craig E. Wills
+733518	James Bailey
+110918	Andrew Lim
+1601872	Stefan Schönauer
+790852	Jieping Ye
+5984529	Nicholas R. Jennings
+1167707	Michel de Rougemont
+610631	Han-Shen Huang
+1528153	Selim Aksoy
+102735	Andreas Dengel
+930113	Khalil Amiri
+250192	Cathal Gurrin
+1151298	Michael A. Olson
+1913161	Zhiming Ma
+53588	Alberto Lavelli
+192854	Bernd Amann
+110932	Andrew Lippman
+1700172	Toby Walsh
+651612	Holger Bast
+5951756	James G. Schmolze
+602463	Hae-Chang Rim
+1347906	Philippe Jégou
+1806663	Xiang Fu
+667989	Hui Wang
+1519944	Scott B. Huffman
+971089	Lars Schmidt-Thieme
+766315	Jeffrey S. Rosenschein
+53602	Alberto Lerner
+1454452	Ron Kohavi
+1462645	Ruben H. Zamar
+1347952	Philippe Laborie
+258406	Chang-Hung Lee
+569711	Glen Jeh
+1519998	Scott Bennett
+1143167	Mehryar Mohri
+1806708	Xiang Lian
+5951784	Katia P. Sycara
+1601898	Stefan Schulz
+1880431	Yue Pan
+668030	Hui Yang
+618877	Harald Schöning
+5730593	Ananth Grama
+5730607	Carole A. Goble
+921975	Kenneth O. Stanley
+1798498	Wojciech Kwedlo
+5837090	Antonio L. Furtado
+1495402	Salem Benferhat
+668023	Hui Xiong
+176512	Baoli Li
+1659290	Tamer Kahveci
+1274256	Oded Maron
+1610141	Stephen F. Smith
+299394	Christopher D. Manning
+1610143	Stephen F. Weiss
+373135	David Minnen
+5951958	Michael Stonebraker
+1274271	Oded Shmueli
+889216	Kaiqi Huang
+815490	John A. Barnden
+225676	Byoung-Kee Yi
+250257	Catharine M. Wyss
+635295	Henri Briand
+782749	Jiajun Bu
+1503630	Sandeep Tata
+561554	Gianluigi Greco
+5951937	Sham Kakade
+463258	Erich J. Neuhold
+389531	Derek Greene
+545197	Geert Jan Bex
+1503664	Sandeepan Banerjee
+389539	Derek H. Sleeman
+6173177	Marie-France Bruandet
+766380	Jeffrey Scott Vitter
+1839540	Yanxi Liu
+1528255	Selina Chu
+1298873	Pablo Castro
+586149	Guillermo Ricardo Simari
+143788	Ariel D. Procaccia
+1601974	Stefan Siersdorfer
+1167807	Michel E. Adiba
+668068	Hui Zhang
+364981	David Bodoff
+1020350	Luis Talavera
+1143203	Mehul A. Shah
+1593772	Sourashis Roy
+225719	Byoung-Tak Zhang
+1094054	Mark Baillie
+201146	Bing Liu
+53692	Alberto Maria Segre
+1429973	Rina Dechter
+1397204	Ralf Hartmut Güting
+1880537	Yue Zhuge
+627150	Hector Gonzalez
+1610193	Stephen Fox
+1577425	Simeon J. Simoff
+5951891	Neel Sundaresan
+627138	Hector Garcia-Molina
+29131	Adam Silberstein
+1323480	Pavel Zezula
+143822	Ariel Felner
+627141	Hector Geffner
+586181	Guillermo Sapiro
+1454552	Ron Musick
+242124	Carlos Ansótegui
+1085919	Mariano Cilia
+643526	Himanshu Gupta
+750043	Jaroslaw Stepaniuk
+5804424	Chiranjib Bhattacharyya
+1708490	Tong Zhang
+578011	Gregory Buehrer
+143828	Ariel Fuxman
+5804431	B. R. Badrinath
+1438157	Robert L. Grossman
+1446351	Rodney A. Brooks
+1339853	Peter Stone
+5804419	Peter Bruza
+217567	Brian Milch
+1249743	Nick Koudas
+1020370	Luís Torgo
+1397236	Ralf Herbrich
+1389047	Rafael Alonso
+1430006	Rina Panigrahy
+1741310	Vasileios Hatzivassiloglou
+1798655	Wojciech Szpankowski
+1044969	M. V. Ramakrishna
+176618	Baoning Wu
+733665	James Bowen
+1782262	Wen-Hsiang Lu
+397801	Dietrich Klakow
+1241570	Nebojsa Jojic
+1593833	Sourav S. Bhowmick
+1339877	Peter Struss
+1724905	Ulf Brefeld
+1077735	Margaret King
+938484	Klaus Küspert
+627187	Héctor J. Hernández
+1618402	Stratos Idreos
+627189	Hector J. Levesque
+201214	Bing Tian Dai
+1806822	Xiang Zhang
+1700327	Todd C. Mowry
+1618407	Stratos Papadomanolakis
+1159701	Michael M. Marefat
+1307157	Pascal Poncelet
+176644	Baoping Zhang
+692739	Ingo Mierswa
+471566	Eugene Wong
+1307161	Pascal Poupart
+586243	Guimei Liu
+152079	Arunprasad P. Marathe
+545286	Geert Wets
+1315354	Paul D. Scott
+1356315	Pirjo Ronkainen
+1634824	Suzanne M. Embury
+250384	Catherine Baudin
+356881	Daniele Nardi
+1569280	Shumeet Baluja
+1856007	Yingwei Cui
+1069580	Marcelo Arenas
+5730890	C. Lee Giles
+619031	Haran Boral
+1593862	Souripriya Das
+5730888	Venu Govindaraju
+1012270	Lubor Kollár
+1700408	Todd Eavis
+12835	A. Prasad Sistla
+1552948	Shetal Shah
+1651262	Taisuke Sato
+1790515	Willem Jonker
+578082	Gregory Cobena
+348719	Daniel E. Neiman
+1454648	Ron Rymon
+373290	David Mumford
+397876	Dietrich Wettschereck
+635451	Henri Prade
+225846	Byron Choi
+660022	Howard J. Hamilton
+225854	Byron Dom
+53821	Alberto O. Mendelzon
+5952103	Iyer N. Subramanian
+1765924	W. Lewis Johnson
+1823322	Xiuzhen Zhang
+1086035	Mariano P. Consens
+389696	Derek Long
+348739	Daniel E. Rose
+373324	David Mutchler
+1569370	Shuming Shi
+438859	Eithan Ephrati
+922176	Kenneth R. Wood
+848450	Joseph Davis
+815710	John A. Keane
+225879	Byron J. Gao
+1454659	Ron Sacks-Davis
+602705	Haesun Park
+209499	Boris Chidlovskii
+578129	Gregory D. Hager
+651861	Holger Kache
+1430088	Rinat Khoussainov
+1413706	Relu Patrascu
+1798724	Wojciech Ziarko
+782954	Jialie Shen
+1618555	Stuart C. Shapiro
+709230	J. Christopher Beck
+324193	Craig Macdonald
+627297	Héctor Muñoz-Avila
+954980	Kurt A. Shoens
+995940	Limsoon Wong
+365166	David Brill
+1135226	Mauro Maggioni
+1348223	Philippe Mulhem
+1389157	Rafael Berlanga Llavori
+979577	Lee A. Hollaar
+1192549	Miyuki Nakano
+184949	Belle L. Tseng
+1192553	Miyuki Ono
+733808	James C. Browne
+414330	Donko Donjerkovic
+1725030	Ulf Leser
+447111	Elizabeth S. Burnside
+832142	Jonathan Schaeffer
+1774232	Warren Shen
+430721	Edith Cohen
+430734	Edith Elkind
+5804754	Michael J. Black
+1397400	Ralf Küsters
+668315	Hui-I Hsiao
+496277	Felip Manyà
+7262968	Juan F. Huete
+1397379	Ralf Kramer
+578207	Gregory Dudek
+537232	Gabriela Csurka
+1102475	Marlon Dumas
+1012371	Luc Bouganim
+1413768	Remco R. Bouckaert
+1340043	Peter T. Wood
+1094287	Mark Brodie
+111265	Andrew McCallum
+1905343	Zhaohui Wu
+922285	Kenneth Salem
+6083320	Victor O. K. Li
+1446576	Rodney W. Topor
+1151671	Michael Anderson
+733858	James C. French
+996024	Lin Guo
+152251	Arvind Arasu
+955060	Kurt D. Bollacker
+406200	Doheon Lee
+1307309	Pascal Van Hentenryck
+955087	Kurt Driessens
+1684187	Thomas R. Ioerger
+946893	Kris Ganjam
+1536723	Seung-Hoon Na
+5952156	Baile Shi
+520909	Fred Douglis
+357071	Daniele Theseider Dupré
+217800	Brian P. McCune
+1012418	Luc De Raedt
+938688	Klaus Peithner
+398038	Dik Lun Lee
+1618633	Stuart E. Madnick
+1913548	Zhiqiang Yang
+1905359	Zhaohui Zheng
+1790670	Willi Klösgen
+144090	Arif Ghafoor
+488157	Falk Scholer
+398045	Dikan Xing
+570068	Glenn Fung
+1905345	Zhaohui Xie
+1249998	Nick Roussopoulos
+1626821	Sung Wook Yoon
+619240	Hari Balakrishnan
+1413879	Remi Coletta
+152294	Arvind Hulgeri
+914154	Keiichiro Hoashi
+1348349	Philippe Pucheral
+6091445	Douglas Burdick
+791271	Jignesh M. Patel
+1684210	Thomas R. Lynam
+258799	Chang-Shing Perng
+5731003	Cynthia Breazeal
+660196	Howard R. Turtle
+570104	Glenn Healey
+406262	Doina Precup
+938749	Klaus R. Dittrich
+365299	David Buttler
+1004281	Liviu Badea
+242425	Carlos Castillo
+996085	Lin Li
+1651481	Tak W. Yan
+897804	Karl Aberer
+267015	Chavalit Likitvivatanavong
+1520404	Scott E. Fahlman
+996106	Lin Liao
+611075	Hanan Samet
+1798928	Wolf-Tilo Balke
+5952342	Timos K. Sellis
+267018	Chavdar Botev
+430857	Edleno Silva de Moura
+1127170	Matthew Denny
+29464	Adam Woznica
+1364749	Pu-Jen Cheng
+348956	Daniel F. Lieuwen
+635667	Henrik Boström
+529170	G. Craig Murray
+7312244	David W. Aha
+1651513	Tak-Lam Wong
+1348404	Philippe Richard
+111392	Andrew Moore
+86816	Amir Globerson
+5755766	Eric P. Xing
+1577788	Simon Baker
+496418	Felipe Cariño
+1880890	Yuefeng Li
+471841	Eugenio Di Sciascio
+365346	David C. Brown
+5804927	Ana L. C. Bazzan
+1397564	Ralf Rantzau
+5944177	Luc J. Van Gool
+1348409	Philippe Rigaux
+996159	Lin Qiao
+5804904	Piero A. Bonatti
+758587	Jean-Charles Régin
+275252	Chi-Yin Chow
+1659688	Tamraparni Dasu
+1921839	Zoran Obradovic
+561979	Giansalvatore Mecca
+1159975	Michael Mateas
+840507	José A. Blakeley
+1504044	Sandip Sen
+914230	Keiji Kanazawa
+996146	Lin Padgham
+1225516	Nabil R. Adam
+5952357	Jonathan Schler
+258876	Chang-Tien Lu
+1635163	Svein Erik Bratsberg
+209735	Boris Katz
+1061716	Manolis Koubarakis
+1749855	Viet Dung Dang
+1061724	Manolis M. Tsangaris
+373577	David Nistér
+1495898	Sally A. Goldman
+1561433	Shivakumar Venkataraman
+1561432	Shivakumar Vaithyanathan
+783192	Jian Chen
+1340226	Peter Triantafillou
+217940	Brian R. Gaines
+652126	Holger Schwarz
+1536844	Seung-Jean Kim
+1184585	Mingfang Wu
+578387	Gregory Grefenstette
+324440	Craig Silverstein
+5804807	Peter Bollmann
+553832	Gerald A. Wilson
+955246	Kurt Konolige
+521062	Fred J. Maryanski
+766824	Jehan-François Pâris
+1397617	Ralf Schenkel
+824168	John R. Kender
+1602428	Stefan Wermter
+119657	Anil Nori
+701283	Ismail Sengor Altingovde
+324458	Craig Stanfill
+815971	John A. Tomlin
+1315684	Paul E. Johnson
+1332070	Peter A. Boncz
+275319	Chi-Yuen Ng
+1356641	Piyush Goel
+1799022	Wolfgang Benn
+5952300	Peter J. Stuckey
+1413996	Rémi Munos
+922487	Kenneth Ward Church
+488317	Fan Li
+1094506	Mark Chavira
+586611	Guizhen Yang
+7148310	C. J. Date
+1282963	Ömer Egecioglu
+701321	Ismailcem Budak Arpinar
+734094	James Caverlee
+889735	Kaizhong Zhang
+889757	Kaj Grønbæk
+5805001	François Bry
+1176448	Mike Perkowitz
+5952463	D. Sculley
+1635214	Svein-Olaf Hvasshovd
+95127	Anastasios Gounaris
+1135495	Mausam
+1119110	Masatoshi Yoshikawa
+1397641	Ralf Schneider
+193438	Bernd Neumann
+291738	Christian S. Jensen
+152482	Arvola Chan
+914351	Keiji Yanai
+783272	Jian Huang
+1889209	Yunhao Liu
+1315762	Paul E. Utgoff
+955303	Kurt M. Dresner
+734113	James Cheng
+783265	Jian Hu
+734112	James Cheney
+1127329	Matthew Eric Otey
+78768	Alistair Moffat
+95154	Anastasios Kementsietsidis
+1332131	Peter A. Flach
+1315757	Paul E. Stolorz
+1741729	Vasilis Vassalos
+381886	Debora Donato
+1332138	Peter A. Franaszek
+488390	Fan Yang 0002
+562121	Gideon P. Stein
+734154	James Clifford
+1709016	Toni Mancini
+1602523	Stefan Woltran
+889806	Kajal T. Claypool
+750536	Jasmine Novak
+996298	Lin Zhou
+1012681	Luc Segoufin
+1094615	Mark Craven
+1643473	T. K. Satish Kumar
+1086430	Marie desJardins
+562136	Gideon Schaller
+955359	Kurt P. Brown
+5804941	Jeff A. Bilmes
+1889226	Yunhe Pan
+1610702	Stephen J. Hegner
+988120	Li Chen
+226267	Byung-Hoon Park
+1340364	Peter van Beek
+431069	Edmund H. Durfee
+1496011	Sally I. McClean
+1012688	Luc Steels
+1061872	Manoranjan Dash
+1668090	Teodor C. Przymusinski
+209893	Boris Motik
+1831933	Yaakov Engel
+7181191	Ram Akella
+660448	Hozumi Tanaka
+447469	Eljas Soisalon-Soininen
+308200	Chung-Min Chen
+95215	Anastasios Tombros
+988129	Li Cheng
+955360	Kurt P. Eiselt
+5804969	Chris Burges
+775161	Jérôme Euzenat
+201712	Bingjun Sun
+1922030	Zoubin Ghahramani
+791547	Jihie Kim
+1602528	Stefan Wrobel
+185336	Ben Fei
+553971	Gerald DeJong
+1831911	Yaacov Choueka
+447483	Elke Achtert
+144381	Arindam Banerjee
+447481	Elke A. Rundensteiner
+783370	Jian Pei
+693262	Ingrid Zukerman
+1209364	Moshe Fresko
+824331	John R. Smith
+1709085	Toni Urpí
+1790995	William Adams
+365580	David C. Parkes
+1143834	Meichun Hsu
+1537052	Seung-won Hwang
+414730	Donovan A. Schneider
+562200	Giedrius Slivinskas
+1815561	Xiaowei Xu
+1627147	Sung-Hyon Myaeng
+603165	Hai He
+939033	Klaus U. Schulz
+988184	Li Ding
+1790982	William A. Woods
+635926	Henrik Nottelmann
+1545269	Shaojun Wang
+1406013	Ratko Orlandic
+1741879	Vasin Punyakanok
+1209404	Moshe Koppel
+1225763	Nachum Dershowitz
+1479717	S. K. Michael Wong
+1561643	Shivnath Babu
+635956	Henrik Reif Andersen
+1111085	Martine De Cock
+734261	James Cussens
+5952539	Margo I. Seltzer
+136260	Antonio Gulli
+70727	Alexey Pryakhin
+1430610	Risto Miikkulainen
+103499	Andreas Henrich
+758855	Jean-Claude Latombe
+218191	Brian Scassellati
+1799253	Wolfgang Faber
+308299	Chung-Sheng Li
+111700	Andrew P. Witkin
+1889353	Yuni Xia
+1184840	Minghua Zhang
+783440	Jian Tang
+1913921	Zhiwei Li
+1209423	Moshé M. Zloof
+103519	Andreas Herzig
+7033866	Cory J. Butz
+947311	Krishna Kummamuru
+1750142	Vijay A. Saraswat
+636013	Henrik Stewénius
+1504370	Sandra Carberry
+103526	Andreas Heuer
+5805119	Daniel G. Bobrow
+119914	Anindya Datta
+1168506	Michel Scholl
+144489	Aris Anagnostopoulos
+783483	Jian Yang
+455799	Enhong Chen
+1463393	Rudi Studer
+1832035	Yabo Xu
+1094761	Mark D. Pendrith
+365694	David C. Wilkins
+95357	Anat Eyal
+1438824	Robert M. MacGregor
+783477	Jian Xu
+1348715	Phillip B. Gibbons
+439430	Ekow J. Otoo
+1234067	Narayanan Shivakumar
+889999	Kaleem Siddiqi
+185472	Ben He
+1225882	Nada Lavrac
+611457	Hang Cui
+144523	Aris M. Ouksel
+578689	Gregory Kuhlmann
+783490	Jian Yin
+1209497	Moshe Tennenholtz
+488586	Fang Chu
+1709205	Tony Abou-Assaleh
+1373317	Quang Hieu Vu
+890014	Kalervo Järvelin
+349329	Daniel G. Shapiro
+464017	Erik G. Hoel
+1094790	Mark D. Smucker
+611487	Hang Li
+603295	Hai Tao
+201882	Bingsheng He
+62620	Alexander Bochman
+1758340	Vítor Santos Costa
+783508	Jian Zhang
+644246	Hiroaki Kitano
+406694	Domenico Lembo
+398510	Dilys Thomas
+693410	Inien Syu
+447658	Ella Bingham
+1307838	Pasquale Savino
+505011	Flavio Rizzolo
+758974	Jean-Daniel Zucker
+1209508	Moshe Y. Vardi
+947384	Krishna P. Mikkilineni
+103609	Andreas Hotho
+586930	Gultekin Özsoyoglu
+775344	Jérôme Lang
+119994	Anirban Dasgupta
+1799335	Wolfgang Gatterbauer
+742582	Jan M. Zytkow
+54462	Albrecht Schmidt 0002
+62660	Alexander Borgida
+1881307	Yuelong Jiang
+603328	Hai Wang
+1791184	William B. Thompson
+6509743	Ian Davidson
+365769	David Campbell
+1635541	Sven Helmer
+971968	Latha S. Colby
+488648	Fang Liu
+95438	Anatole Gershman
+373972	David P. Miller
+1406151	Rattikorn Hewett
+914655	Keishi Tajima
+554204	Gerald J. Popek
+54484	Albrecht Zimmermann
+79060	Alkis Simitsis
+1012952	Luca Cabibbo
+824532	John Riedl
+1692865	Tim Oates
+1578176	Simon de Givry
+1455311	Ronald Fagin
+1684672	Thomas S. Huang
+103642	Andreas Hutflesz
+947411	Krishna Prasad Chitrapura
+1275085	Oisín Boydell
+1316043	Paul Fodor
+1283315	Omid Madani
+1152243	Michael Benedikt
+1258722	Nikos A. Vlassis
+62709	Alexander Brodsky
+365811	David Carmel
+1660130	Taneli Mielikäinen
+1185007	Mingjing Li
+1225965	Nadav Eiron
+144637	Aristides Gionis
+1135889	Max J. Egenhofer
+6477155	Vladimir Vapnik
+873743	Junyi Xie
+406788	Domenico Saccà
+6960482	Hiroshi G. Okuno
+1783063	Wen-Syan Li
+1692949	Tim Pohle
+488714	Fang Wei
+5854550	Luis M. de Campos
+1824011	Xu-Dong Zhang
+668947	Huidong Jin
+1758464	Vittorio Castelli
+87322	Amir Netz
+578856	Gregory M. Provan
+1553718	Shian-Hua Lin
+1783098	Wen-tau Yih
+1791289	William Bohrer
+1529140	Senqiang Zhou
+193830	Bernd-Uwe Pagel
+1815870	Xiaoxin Yin
+619820	Harish Ragavan
+1725756	Ulrich Güntzer
+1783100	Wen-Te K. Lin
+996646	Lina Khatib
+1160504	Michael N. Huhns
+1234238	Narendra Ahuja
+1520953	Scott L. Vandenberg
+496951	Felix A. Fischer
+1234211	Naren Ramakrishnan
+1848614	Yi Chen
+218425	Brian Tanner
+759095	Jean-François Boulicaut
+1545512	Shaoping Ma
+1701208	Tok Wang Ling
+1742171	Vassilis Christophides
+939340	Klaus-Robert Müller
+283974	Chong-Sun Hwang
+1447252	Rodrigo de Salvo Braz
+611661	Hanghang Tong
+988491	Li Ma
+734531	James Davis
+1332575	Peter B. Ladkin
+1881426	Yuen-Hsien Tseng
+1070401	Marcia A. Derr
+1742158	Vassilis Athitsos
+1094980	Mark Dredze
+1750350	Vijay Kumar
+1553730	Shian-Shyong Tseng
+177493	Barbara Catania
+1094983	Mark Drummond
+750929	Jason Catlett
+1013075	Luca Console
+1635654	Sven Koenig
+1308019	Pat Langley
+1299827	Padhraic Smyth
+980334	Lee-Feng Chien
+1267061	Norbert Fuhr
+505185	Flip Korn
+1684848	Thomas Schiex
+1734006	V. S. Subrahmanian
+365928	David Chapman
+1545593	Shaorong Liu
+71022	Alexiei Dingli
+1504615	Sandra Heiler
+947578	Krishnamoorthy Sivakumar
+1742191	Vassilis J. Tsotras
+1824109	Xu-Ying Liu
+382322	Deborah L. McGuinness
+1381743	R. Michael Young
+1316200	Paul G. Sorenson
+1848673	Yi Feng
+1463656	Rüdiger Wirth
+193916	Bernhard Braunmüller
+1463703	Rudolf Bayer
+1267088	Norbert Gövert
+1807773	Xiangming Mu
+1537424	Seungjin Choi
+1160603	Michael Nelson
+1652114	Takahira Yamaguchi
+882054	K. Lam
+1381765	R. Mike Cameron-Jones
+685466	Igor Kononenko
+644511	Hiroaki Ueda
+1676686	Thierry Vidal
+1078667	Margot Flowers
+1398152	Ralph Grishman
+775592	Jérôme Siméon
+636335	Henry A. Rowley
+865707	Julien Prados
+1365427	Pusheng Zhang
+1086906	Marie-Anne Neimat
+701856	Issei Sato
+1725873	Ulrich Junker
+6125041	John R. Anderson
+1611190	Stephen Lin
+636326	Henry A. Kautz
+1258915	Nikos Mamoulis
+1406370	Raúl E. Valdés-Pérez
+1439151	Robert McCann
+611763	Hangzai Luo
+1209774	Mostafa H. Ammar
+1668517	Terence R. Smith
+1332649	Peter Bailey
+1168851	Michelangelo Diligenti
+275911	Chia-Hui Chang
+1144277	Meinolf Sellmann
+1193431	Mohak Shah
+939465	Klemens Böhm
+1340893	Peter Widmayer
+1258969	Nikos Paragios
+1750486	Vijay Raghavan
+1004994	Liying Sui
+1693142	Tim Sheard
+1258945	Nikos Ntarmos
+79315	Allan D. Jepson
+1848782	Yi Liu
+1283527	Omran A. Bukhres
+1799619	Wolfgang Käfer
+652753	Honesty C. Young
+1856965	Yiping Ke
+980434	Leemon C. Baird III
+742871	Jan O. Pedersen
+1168844	Michelangelo Ceci
+538088	Gabriella Kazai
+1750521	Vijay S. Iyengar
+144870	Arjan J. C. van Gemund
+1816062	Xiaoyan Li
+644588	Hirochika Inoue
+1709565	Tony Jebara
+357865	Danilo Montesi
+1799669	Wolfgang Klas
+1701367	Tolga Bozkaya
+398838	Dimitra Vista
+447988	Ellen M. Voorhees
+988669	Li Wang
+1455588	Ronald K. Pearson
+792056	Jilian Zhang
+546301	Gene T. J. Wuu
+210426	Börkur Sigurbjörnsson
+1340910	Peter Wilkins
+579058	Gregory Piatetsky-Shapiro
+1095147	Mark E. Stickel
+1021427	Luiz Tucherman
+6141345	Quoc V. Le
+456187	Enric Plaza
+1832420	Yael Petruschka
+349690	Daniel Gruhl
+1685018	Thomas Schwentick
+1791517	William C. Regli
+562703	Gilad Mishne
+652803	Hong Chang
+652807	Hong Cheng
+1373722	Quanzhong Li
+1152542	Michael Brady
+988703	Li Wei
+579096	Gregory R. Ganger
+1398279	Ralph Krieger
+366102	David Cohn
+1332743	Peter Baumann
+1742350	Vassos Hadzilacos
+849435	Joseph L. Hellerstein
+1472001	Ryohei Fujimaki
+1676805	Thijs Westerveld
+1299982	Padmini Srinivasan
+947731	Krishnaram Kenthapadi
+1086991	Marie-Christine Rousset
+1816126	Xiaoyan Zhu
+243236	Carlos Guestrin
+1119801	Masayuki Numao
+1701427	Tolga Urhan
+1685042	Thomas Seidl
+562723	Gilad Zlotkin
+1160765	Michael O. Akinde
+1300001	Padraig Cunningham
+652858	Hong Hai Do
+546364	Geneva G. Belford
+448049	Ellen Riloff
+1824289	Xuan Zhou
+1168939	Michele Banko
+1603106	Stefanie Scherzinger
+1472044	Ryohei Nakano
+103998	Andreas Koeller
+415302	Dorian Suc
+644682	Hirofumi Matsuzawa
+144973	Arjen P. de Vries
+1750602	Vijay V. Raghavan
+1848909	Yi Wang
+1775177	Wayne Iba
+677465	I-Min A. Chen
+120405	Anish Das Sarma
+1881673	Yueting Zhuang
+570962	Goce Trajcevski
+742993	Jan Paredaens
+1054282	Maja J. Mataric
+1398345	Ralph M. Weischedel
+1553993	Shiby Thomas
+1857144	Yiqiu Han
+407138	Dominic Létourneau
+833127	Jong Soo Park
+972389	Laura Bright
+317033	Clement T. Yu
+1128032	Matthew J. Rattigan
+415348	Dorin Comaniciu
+407157	Dominic Mazzoni
+1799789	Wolfgang Lehner
+1767020	W. Scott Spangler
+300659	Christopher Jefferson
+6354455	Robert Balzer
+398970	Dimitri Marinakis
+1914465	Zhiyong Huang
+1857121	Yiqing Tu
+816780	John Burge
+636554	Henry E. Kyburg Jr.
+5994200	Chris Olston
+890505	Kalyan Moy Gupta
+374412	David Poole
+988804	Li Yang
+1250975	Nicola Di Mauro
+1267359	Norbert Ritter
+1701524	Tom Armstrong
+1169054	Michèle Cart
+775833	Jerry B. Weinberg
+906910	Katsuhiko Takabayashi
+1734281	V. Srinivasan
+1554049	Shichao Zhang
+1758850	Vivek R. Narasayya
+448158	Elli Angelopoulou
+177818	Barbara Hayes-Roth
+104090	Andreas Krause
+767632	Jen-Wei Huang
+186013	Ben Shneiderman
+1316491	Paul H. Leng
+202407	Binyamin Rosenfeld
+1251003	Nicola Fanizzi
+1136315	Max Welling
+1570493	Shunsuke Uemura
+120491	Anisoara Nica
+30379	Adele E. Howe
+1111741	Marvin H. Solomon
+1185468	Mingrui Wu
+1341094	Peter Zabback
+1824425	Xuanhui Wang
+1849001	Yi Zhang
+1341089	Peter Z. Revesz
+1144490	Meishan Hu
+571084	Goetz Graefe
+898761	Karl Tuyls
+874184	Jure Leskovec
+1578717	Simon J. Gibbs
+399040	Dimitri Theodoratos
+1726173	Ulrich Reimer
+1169115	Michele Covell
+988868	Li Zhang
+5928590	Raghu Krishnapuram
+972507	Laura Chiticariu
+1799885	Wolfgang May
+849621	Joseph M. Hellerstein
+1439438	Robert N. Lass
+759504	Jean-Gabriel Ganascia
+1742586	Vebjorn Ljosa
+1545970	Sharad Mehrotra
+1267445	Norbert Südkamp
+7255688	Chris S. Wallace
+513760	Francisco Pereira
+603886	Haibin Cheng
+5969584	Lluís Màrquez
+1554170	Shie Mannor
+1111805	Marvin Minsky
+1857267	Yirong Xu
+980735	Lei Chen 0002
+177907	Barbara J. Grosz
+1185504	Mingsheng Hong
+1595115	Sreenivas Gollapudi
+997111	Linda C. van der Gaag
+825076	John Seely Brown
+268029	Chen Chen
+1152744	Michael Buro
+1603299	Stefano Bistarelli
+997107	Linda C. Smith
+1898209	Zachary G. Ives
+5928613	K. L. Kwok
+562953	Gilbert Swinnen
+1701659	Tom Brijs
+1906463	Zhen Hua Liu
+1029897	M. Catherine McCabe
+587534	Gunnar Rätsch
+1799955	Wolfgang Nejdl
+1152794	Michael C. Burl
+1259293	Nilesh Bansal
+980736	Lei Chen 0003
+1177344	Mikhail J. Atallah
+538394	Gadi Pinkas
+456469	Enrico Franconi
+1439501	Robert Neches
+431902	Eduard H. Hovy
+653078	Hong Shen
+1349387	Phokion G. Kolaitis
+1242893	Neil Burch
+374565	David R. Barstow
+653097	Hong Su
+202528	Biplav Srivastava
+1668922	Teresa Maria Altomare Basile
+1161013	Michael P. Georgeff
+464675	Erik Sandewall
+1906489	Zhen Liu
+1816380	Xiaoyong Du
+644896	Hirohisa Seki
+194347	Bernhard Mitschang
+825126	John Shawe-Taylor
+1816374	Xiaoyong Chai
+1562425	Shlomo Zilberstein
+735035	James F. Allen
+1832746	Yahiko Kambayashi
+1242913	Neil C. Rowe
+743231	Jan Ramon
+1455906	Ronald Parr
+1865512	Yoonsuck Choe
+456504	Enrico Giunchiglia
+825138	John Shepherd
+1333076	Peter Briggs
+1423188	Richard D. Lawrence
+194369	Bernhard Nebel
+210759	Boualem Benatallah
+1562449	Shmuel Katz
+792395	Jilles Vreeken
+890692	Kam-Fai Wong
+202569	Bir Bhanu
+1816401	Xiaoyong Liu
+1562459	Shmuel Peleg
+661319	Hsiao-Wuen Hon
+1087326	Marie-Odile Berger
+1341274	Petko Bakalov
+448342	Elliot Soloway
+382807	Debra T. Burhans
+1128261	Matthew Klenk
+931674	Kia-Fock Loe
+366417	David D. Lewis
+5994252	Z. Meral Özsoyoglu
+1701696	Tom Bylander
+1251146	Nicola Leone
+1259338	Nilesh N. Dalvi
+653138	Hong Va Leong
+1750854	Vijayshankar Raman
+603988	Haibo Hu
+1857345	Yishay Mansour
+366427	David D. McDonald
+931665	Kia Makki
+1431414	Rivka Ladin
+5756723	Hamid R. Motahari Nezhad
+1865593	Yoram Gdalyahu
+292705	Christian Wiesner
+1128316	Matthew L. Ginsberg
+194412	Bernhard Pfahringer
+890722	Kam-yiu Lam
+784228	Jian-Tao Sun
+1603432	Stefano Ceri
+1087329	Marie-Odile Cordier
+1578857	Simon Kasif
+743290	Jan Rittinger
+251760	Catriel Beeri
+1808239	Xiangyang Xue
+948090	Kristen LeFevre
+5994286	Mitsunori Ogihara
+1881963	Yufei Tao
+980848	Lei Li
+1242989	Neil D. Lawrence
+1349483	Phu Chien Nguyen
+1865571	Yoram Bachrach
+1906586	Zhen Zhang
+1865620	Yoram Moses
+1185690	Mingxi Wu
+1161116	Michael P. Oakes
+1726356	Ulrich Thiel
+685979	Igor Tatarinov
+6141899	Leen-Kiat Soh
+907162	Katsumi Inoue
+833430	Jong-Hyeok Lee
+5699531	Abdur Chowdhury
+1496971	Salvatore J. Stolfo
+997266	Linda G. DeMichiel
+890771	Kamal Ali
+636841	Henry Lieberman
+1464245	Rudy Setiono
+1251248	Nicola Onose
+579502	Gregory Z. Grudic
+1750972	Vikas C. Raykar
+1423294	Richard Dearden
+522154	Frédéric Koriche
+399273	Dimitrios Georgakopoulos
+1775530	Wee Hyong Tok
+1136544	Maxim Likhachev
+1775535	Wee Kheng Leow
+1775534	Wee Keong Ng
+1750956	Vikas Arora
+1251236	Nicola Muscettola
+497599	Felix Michel
+980917	Lei Sheng
+1677220	Thodoros Topaloglou
+268217	Chen Li
+1865634	Yoram Singer
+1603494	Stefano Crespi-Reghizzi
+931761	Kian-Lee Tan
+571319	Gökhan H. Bakir
+317371	Clifford A. Lynch
+1775578	Wee Sun Lee
+686024	Igor V. Cadez
+669647	Huiming Qu
+399297	Dimitrios Gunopulos
+63431	Alexander G. Hauptmann
+71624	Alfons Kemper
+1161179	Michael P. Wellman
+1775574	Wee Siong Ng
+145359	Arkady Epshteyn
+980928	Lei Tang
+1136607	Maxim Peysakhov
+178125	Barbara Liskov
+1701837	Tom Croonenborghs
+317395	Clifford Brunk
+374738	David R. Karger
+194523	Bernhard Schölkopf
+1497039	Salvatore Orlando
+1636289	Svetha Venkatesh
+292829	Christian Zimmer
+1808320	Xiangyu Duan
+55263	Alejandro A. Vaisman
+1611719	Stephen P. Boyd
+1701830	Tom Crecelius
+497637	Felix Naumann
+88034	Amit Anil Nanavati
+1439734	Robert P. Goldman
+907240	Katsumi Tanaka
+5928892	James T. Kwok
+759779	Jean-Louis Lassez
+456687	Enrico Pontelli
+5928886	Gerald Kiernan
+940003	Koby Crammer
+194546	Bernhard Seeger
+817144	John C. Platt
+415731	Doron Rotem
+1521633	Scott Shenker
+1865700	Yorick Wilks
+1923097	Zuobing Xu
+464897	Erik Vee
+735235	James Fan
+1611794	Stephen P. Morgan
+669702	Huiping Cao
+1792010	William DuMouchel
+6174797	Karsten M. Borgwardt
+784408	Jian-Yun Nie
+5929039	H. T. Kung
+342034	Dale Schuurmans
+1628161	SungRan Cho
+342043	Dale Skeen
+1914882	Zhong Su
+1833019	Yair Weiss
+112673	Andrew Tomkins
+710696	J. Eliot B. Moss
+1751096	Vikas Sindhwani
+817192	John C. Shafer
+161831	Austin Parker
+374819	David R. Musicant
+1333299	Peter C. K. Yeung
+88102	Amit Chandel
+6797376	Ivor W. Tsang
+1333310	Peter C. Lockemann
+849958	Joseph O'Rourke
+776231	Jerry R. Hobbs
+1243196	Neil Immerman
+1407034	Ravi Janardan
+1177632	Mikhail Soutchanski
+1914924	Zhong Zhang
+546874	Gennady Antoshenkov
+1824809	Xue Li
+981050	Lei Yu
+1538083	Seyda Ertekin
+1202214	Mohan Kamath
+735294	James Ford
+890939	Kamal Nigam
+112697	Andrew Trotman
+104507	Andreas Meier
+5929057	Robert Korfhage
+301119	Christopher M. Brown
+1095723	Mark H. Montague
+1710118	Toon Calders
+645172	Hiroki Arimura
+1603623	Stefano Ferilli
+79934	Allen Ginsberg
+161859	Austin Tate
+1177685	Mikhail V. Kiselev
+522306	Frédéric Moal
+1095765	Mark Hall
+981064	Lei Zhang
+112712	Andrew Turpin
+1816660	Xiaoyun Wu
+1251420	Nicola Stokes
+96337	Anders Heyden
+5928970	Ben Kao
+464980	Erik Wilde
+22611	Abdul Sattar
+47187	Akrivi Vlachou
+268369	Chen Wang
+1890378	Yunyao Li
+1194053	Mohamed A. Soliman
+71768	Alfonso F. Cardenas
+1521739	Scott T. Leutenegger
+1587322	Solomon Eyal Shimony
+1202289	Mohan Sridharan
+1702015	Tom Fawcett
+1890426	Yunyue Zhu
+1882224	Yugyung Lee
+1169507	Michele Missikoff
+1595489	Sridhar Mahadevan
+907383	Katsushi Ikeuchi
+1210478	Motomichi Toyama
+1882208	Yuguo Chen
+1849440	Yi-Dong Shen
+1103982	Martha E. Pollack
+555127	Gérard G. Medioni
+1448085	Roelof van Zwol
+309379	Chunnian Liu
+669826	Huiqing Liu
+276622	Chiaki Sakama
+866433	Julio Gonzalo
+1407128	Ravi Kumar
+1546373	Shariq Rizvi
+1595532	Sridhar Ramaswamy
+1423488	Richard E. Korf
+1775758	Wei Chu
+1407118	Ravi Krishnamurthy
+931989	Kien A. Hua
+489627	Fangzhen Lin
+1595525	Sridhar Rajagopalan
+637079	Henry S. Thompson
+1620103	Subbarao Kambhampati
+1407114	Ravi Kothari
+202919	Birgit Tausend
+1145012	Melanie Hilario
+1243316	Neil M. Goldman
+948392	Kristian J. Hammond
+1202363	Mohand Boughanem
+80042	Allen Luniewski
+891041	Kamalakar Karlapalem
+1775798	Wei Fan
+5814518	Olivier D. Faugeras
+153779	Ashish Gupta
+948409	Kristian Kersting
+792763	Jim E. Greer
+1005748	Ljupco Todorovski
+1546409	Sharma Chakravarthy
+907443	Katsutoshi Hirayama
+637129	Henry Soldano
+981199	Leif Azzopardi
+309446	Chunqiang Tang
+538826	Gagan Agrawal
+1202390	Mohand-Said Hacid
+1628380	Sungzoon Cho
+587981	Gunter Saake
+1128663	Matthew Miller
+1775836	Wei Hong
+1775827	Wei Han
+1792210	William E. Weihl
+1407193	Ravi Murthy
+735431	James G. Shanahan
+1603799	Stefano Lonardi
+1251548	Nicolae Duta
+1685718	Thomas Vetter
+80082	Allen Newell
+276688	Chiang Lee
+620764	Harpreet S. Sawhney
+1792205	William E. Walsh
+5929090	Karin Kailing
+940246	Koen Vanhoof
+1325263	Pedro Celis
+47323	Akshay Java
+1128653	Matthew Michelson
+1882304	Yuh-Jyh Hu
+1841404	Yaron Kanza
+604393	Haifeng Jiang
+1259762	Nils J. Nilsson
+1333494	Peter Christen
+1464563	Ruggiero Cavallo
+112870	Andrew W. Moore
+1128697	Matthew Morgenstern
+588000	Gunter Schlageter
+1874164	Yu Deng
+1497337	Sam Chamberlain
+80110	Allen R. Hanson
+964833	L. S. Schneider
+1521893	Scott Weinstein
+735484	James Geller
+1693921	Timo Niemi
+604401	Haifeng Liu
+6068390	Chris Drummond
+383231	Deepa Paranjpe
+88314	Amit Kumar
+637170	Henry Tirri
+391419	Devika Subramanian
+252162	Cécile Paris
+637195	Henry W. Davis
+1775900	Wei Jin
+1710354	Torben Bach Pedersen
+784642	Jianbo Shi
+1284378	Ophir Frieder
+1775888	Wei Jiang
+153871	Ashish Kundu
+1153311	Michael Collins
+743707	Jan Struyf
+1456391	Ronan Collobert
+997660	Linda Ness
+661791	Hsin-Hsi Chen
+6584700	Debra E. VanderMeer
+1751303	Vikram Pudi
+579861	Grigoris Antoniou
+1636614	Svetlozar Nestorov
+1677626	Thomas Ågotnes
+6289788	Chris Mellish
+383265	Deepak Agarwal
+7174472	Brian C. Williams
+80167	Allen Tannenbaum
+1587518	Somak Raychaudhury
+825638	John T. Robinson
+1366335	Qi He
+629028	Heikki Keskustalo
+784697	Jianchao Han
+80179	Allen Van Gelder
+1554724	Shigenobu Kobayashi
+1374497	Quoc Vu
+629054	Heikki Mannila
+301372	Christopher Meek
+792885	Jim Gray
+1693987	Timo Raita
+1800480	Wolfgang Wahlster
+1816923	Xibei Jia
+1800536	Wolfgang Wilkes
+1522003	Se June Hong
+1571152	Shurug Al-Khalifa
+1325395	Pedro DeRose
+1366366	Qi Li
+1775959	Wei Li
+1702231	Tom Heskes
+104782	Andreas Paepcke
+1325403	Pedro Domingos
+1775947	Wei Lai
+1014109	Lucas Bordeaux
+1169731	Michèle Sebag
+5929224	Randy H. Katz
+1440070	Robert Price
+244048	Carlos Ordonez
+751960	Jason Nieh
+1005915	Lloyd Rutledge
+1628494	Sunil Choenni
+1874251	Yu He
+1866053	Yoshiaki Shirai
+88410	Amit Manjhi
+1128781	Matthew O. Ward
+88415	Amit Marathe
+6232321	Song Chun Zhu
+350566	Daniel J. Rosenkrantz
+301409	Christopher Middendorff
+1374588	Qusay H. Mahmoud
+1120632	Masoumeh T. Izadi
+153963	Ashish Sabharwal
+1431929	Rob Gerritsen
+63852	Alexander Hinneburg
+1382776	R. Peter Bonasso
+1448313	Roger Bamford
+1898860	Zahir Tari
+1669482	Terrance E. Boult
+145780	Armand Prieditis
+874875	Jürgen Krämer
+1046901	Maarten de Rijke
+1669474	Terran Lane
+571763	Gong Cheng
+342398	Dallan Quass
+1603940	Stefano Mizzaro
+1595749	Srikanth Bellamkonda
+5929255	Shmuel T. Klein
+1218925	Myoung-Ho Kim
+1571176	Shusaku Tsumoto
+1857891	Yixin Chen
+1178001	Mikio Takagi
+932234	Kihong Kim
+5945822	David B. Leake
+162187	Avi Pfeffer
+1563035	Shohei Hido
+1784215	Wendy Hall
+547207	Geoff A. W. West
+1456537	Ronen Basri
+1120670	Massih-Reza Amini
+113041	Andrew Witkowski
+1784203	Wendy G. Lehnert
+1579401	Simon Parsons
+1104258	Marti A. Hearst
+1022364	Lukasz Golab
+88471	Amit P. Sheth
+539031	Gail E. Kaiser
+825747	John Thornton
+1833348	Yakup Genc
+1857980	Yixiu Huang
+457124	Enrique H. Ruspini
+1604017	Stefano Paraboschi
+1907126	Zheng Chen
+1800631	Wolfram Burgard
+178605	Barbara T. Blaustein
+1456545	Ronen Feldman
+1391010	Raffaele Perego
+1620386	Subhash Suri
+129468	Annita N. Wilschut
+1890721	Yuqiang Guan
+1456552	Ronen I. Brafman
+72126	Alfred G. Dale
+1366484	Qi Zhang
+621000	Harris Drucker
+1276379	Ole Martin Halck
+1620434	Subhasis Chaudhuri
+285129	Chris Buckley
+1120732	Massimiliano Ciaramita
+1284573	Oren Etzioni
+137680	Antonio Si
+5929353	Henryk Jan Komorowski
+1104324	Martial Hebert
+1251780	Nicolas Anciaux
+367070	David E. Losada
+1243598	Neil V. Murray
+203231	Bishwaranjan Bhattacharjee
+1268174	Noriko Kando
+1046992	Maarten Marx
+1456629	Rong Ge
+1219057	Myra Spiliopoulou
+1284596	Oren Kurland
+1620464	Subhasish Mazumdar
+162282	Aviezri S. Fraenkel
+719331	J. Ross Quinlan
+162287	Avigdor Gal
+383467	Deepak Mehta
+801251	Jinxi Xu
+547322	Geoff Hulten
+121330	Anja Theobald
+965114	L. Stephen Coles
+1448419	Roger C. Schank
+1161704	Michael R. Berthold
+113144	Andrew Zisserman
+1186286	Minh Binh Do
+1661468	Tanzeem Choudhury
+1456656	Rong Jin
+1858074	Yiyao Lu
+80390	Allison L. Powell
+1088023	Marijn Koolen
+236043	Cai-Nicolas Ziegler
+498190	Feng Cao
+760327	Jean-Marc Petit
+1612309	Stephen Scott
+1333785	Peter Dadam
+891416	Kamesh Munagala
+1841673	Yasemin Altun
+186901	Beng Chin Ooi
+88601	Amit Shukla
+743954	Jan Van den Bussche
+1399310	Ramakrishna Varadarajan
+809495	Jochen Hipp
+1333769	Peter D. Turney
+1497654	Sam Lightstone
+956974	Kwong-Sak Leung
+522791	Frederick H. Lochovsky
+825901	John V. Carlis
+1473076	Ryszard S. Michalski
+760361	Jean-Marc Thévenin
+1399350	Ramakrishnan Srikant
+1833528	Yali Zhu
+1456691	Rong Pan
+88612	Amit Singhal
+1186362	Minh Le Nguyen
+88617	Amit Somani
+1350205	Pierangela Samarati
+55849	Alejandro P. Buchmann
+1161786	Michael R. Genesereth
+1710647	Tore Risch
+1907250	Zheng Shao
+1923628	Zvi M. Kedem
+1628713	Sunil Prabhakar
+522802	Frederick Hayes-Roth
+383539	Deepak Ramachandran
+768572	Jennifer Chu-Carroll
+260660	Changzhou Wang
+367164	David E. Smith
+105021	Andreas Rauber
+367161	David E. Simmen
+1284654	Oren Zamir
+1776164	Wei Peng
+1612376	Stephen Soderland
+1792607	William G. Kennedy
+686668	Iko Pramudiono
+973380	Laura M. Haas
+203337	Biswanath Panda
+1456710	Rong She
+440918	Elena Baralis
+498263	Feng Jing
+6511154	W. Nick Street
+1301057	Pamela Drew
+113234	Andrey Balmin
+1907264	Zheng Sun
+416345	Dou Shen
+645718	Hiroko Mano
+375386	David Rozenshtein
+129630	Anoop Gupta
+39521	Ahmed K. Elmagarmid
+1096307	Mark Johnson
+653930	Hong-Tai Chou
+367201	David E. Wilkins
+1456755	Rong Zhang
+809578	Jochen L. Leidner
+1456760	Rong Zhou
+1038945	M. Muralikrishna
+105075	Andreas Reuter
+219761	Britton Wolfe
+1456741	Rong Yan
+80501	Allison Woodruff
+629373	Heiko Schuldt
+1661548	Tao Jiang
+1161831	Michael R. James
+785020	Jianfeng Gao
+1055337	Makoto Iwayama
+563827	Gilles Venturini
+1210985	Mounia Lalmas
+211576	Brad Adelberg
+1391210	Rafi Ahmed
+400006	Dimitris Margaritis
+1161873	Michael R. Lowry
+6789863	Laks V. S. Lakshmanan
+703113	Ivan Bratko
+948872	Kristin P. Bennett
+1350290	Piergiorgio Bertoli
+1661584	Tao Liu
+400015	Dimitris Meretakis
+195209	Berthe Y. Choueiry
+1587859	Somnath Banerjee
+383625	Deepak Verma
+1604246	Stefano Soatto
+195213	Berthier A. Ribeiro-Neto
+1661577	Tao Li
+637595	Herbert A. Simon
+1620620	Subir Bhattacharya
+1612429	Stephen T. Barnard
+1120900	Massimiliano Pontil
+498321	Feng Pan
+1776269	Wei Tang
+1112710	Mary F. Fernández
+1735296	Vadim Bulitko
+662160	Hsinchun Chen
+793239	Jim Melton
+1817222	Xifeng Yan
+129694	Anoop Singhal
+907922	Kaushik Chakrabarti
+1891004	Yuri Boykov
+1891006	Yuri Breitbart
+1153714	Michael D. Moffitt
+400034	Dimitris N. Metaxas
+1235637	Nassir Navab
+965285	L. Thorne McCarty
+473771	eva Kühn
+907936	Kaushik Dutta
+1104574	Martin A. Fischler
+539302	Gal A. Kaminka
+1653416	Takao Miura
+1776297	Wei Wang
+5815022	Richard J. Waldinger
+498352	Feng Shao
+1907370	Zheng Zhao
+932537	Kilian Q. Weinberger
+195258	Berthold Reinwald
+1604256	Stefano Spaccapietra
+817840	John D. Lafferty
+1841824	Yaser Sheikh
+1252015	Nicolas Bruno
+498375	Feng Tian
+244416	Carlos Rojas
+817864	John D. Lowrance
+88773	Amitava Bagchi
+1399504	Ramana Yerneni
+400064	Dimitris Papadias
+416458	Doug Downey
+621273	Harry E. Pople
+875228	Jürgen Schmidhuber
+1047261	Mabry Tyson
+1800905	Won Kim
+1661643	Tao Qin
+367314	David Elliot Shaw
+948946	Kristin Tufte
+400089	Dimitris Plexousakis
+309989	Chunyi Shi
+1563381	Shoji Hirano
+1399543	Ramanathan V. Guha
+408291	Dominique Laurent
+1661695	Tao Xiong
+1440509	Robert S. Epstein
+383726	Deepayan Chakrabarti
+350958	Daniel Keren
+6552206	Harumi A. Kuno
+613092	Hannes Heikinheimo
+391924	Deyi Li
+400119	Dimitris Samaras
+1784553	Wenfei Fan
+400116	Dimitris Sacharidis
+1850088	Yi-Leh Wu
+621308	Harry G. Barrow
+72439	Alfred Ultsch
+514800	Franco Turini
+1661678	Tao Wang
+1129192	Matthew Richardson
+1628899	Sunita Sarawagi
+137982	Antonios Deligiannakis
+1104623	Martin A. Riedmiller
+1661670	Tao Tao
+1874659	Yu Sun
+1891097	Yuri Gurevich
+1587999	Son Dao
+1669910	Terry E. Weymouth
+1800968	Won Suk Lee
+1719052	Tsuyoshi Idé
+285469	Chris Ding
+1653504	Takao Terano
+1923841	Øystein Torbjørnsen
+858925	Judea Pearl
+858920	Jude W. Shavlik
+1243959	Nello Cristianini
+1506099	Sang Ho Lee
+1489713	Sabrina De Capitani di Vimercati
+768806	Jennifer G. Dy
+695098	Ioannis P. Vlahavas
+6789973	Sang Uk Lee
+6789969	Richard J. Lipton
+547632	Geoffrey E. Hinton
+1497902	Sam T. Roweis
+940852	Koichi Furukawa
+1637155	Swarup Acharya
+1162026	Michael Rabinovich
+514873	François Bancilhon
+195394	Bertram Ludäscher
+572235	Gonzalo Navarro
+1317719	Paul Lu
+1727324	Umberto Straccia
+809802	Jochen Van den Bercken
+1571665	Shuyi Zheng
+1465168	Rui Wang 0002
+1710941	Torsten Grust
+1710931	Torsten Grabs
+1391449	Raghav Kaushik
+785243	Jiang Su
+1776457	Wei Xu
+908127	Kave Eshghi
+547675	Geoffrey G. Towell
+441180	Elena Ferrari
+629587	Heiner Stuckenschmidt
+301915	Christopher R. Palmer
+506725	Florian Matthes
+1227638	Naftaly H. Minsky
+1317747	Paul M. Aoki
+56169	Alekh Agarwal
+1784688	Weng-Keen Wong
+7043847	Panagiotis G. Ipeirotis
+1055584	Makoto Onizuka
+1596269	Srinivas R. Kashyap
+965499	L. Venkata Subramaniam
+1760109	Vladimir Estivill-Castro
+1538912	Seymour Ginsburg
+56184	Aleks Jakulin
+1506157	Sang Hyuk Son
+621426	Harry K. T. Wong
+1227630	Naftali Tishby
+375674	David S. Reiner
+1211282	Mourad Ouzzani
+1825695	Xuehua Shen
+547726	Geoffrey I. Webb
+1874828	Yu Xu
+301974	Christopher Ré
+547739	Geoffrey J. Gordon
+1350528	Piero Fraternali
+39828	Ahmed Metwally
+1776526	Wei Zhang
+1227653	Naga K. Govindaraju
+990102	Li-Yan Yuan
+801685	Jinze Liu
+220056	Bruce A. Draper
+1497997	Sam Yuan Sung
+752528	Jason V. Davis
+1465226	Rui Zhang 0003
+1514423	Sargur N. Srihari
+777131	Jesse Davis
+1342390	Petri Kontkanen
+1792953	William H. Paxton
+162720	Aviv Zohar
+760751	Jean-Michel Renders
+1743804	Venkatesan T. Chakaravarthy
+1735613	Vagelis Hristidis
+375714	David S. Touretzky
+269230	Chendong Zou
+1858482	Yngvi Björnsson
+1096610	Mark Last
+342966	Damianos Chatziantoniou
+7099	A. Inkeri Verkamo
+736176	James J. Little
+302011	Christopher Riesbeck
+179133	Barnabás Póczos
+310203	Churn-Jung Liau
+1096658	Mark Levene
+187329	Benjamin Arai
+154571	Ashok Joshi
+1743827	Venkatesh Ganti
+1776593	Wei Zhao
+1342424	Petri Myllymäki
+220110	Bruce A. Shapiro
+23509	Abdullah Uz Tansel
+1563599	Sholom M. Weiss
+1727427	Umesh Maheshwari
+1260490	Nimrod Megiddo
+695275	Ioannis Tsamardinos
+318437	Colette Rolland
+97253	András Kocsor
+187367	Benjamin B. Kimia
+56302	Aleksandar Lazarevic
+1448952	Roger King
+203756	Björn Bringmann
+1678313	Thomas Brinkhoff
+359415	Daphna Weinshall
+6511504	C. V. Ramamoorthy
+654333	Hongbin Zha
+1727471	Umeshwar Dayal
+515056	François Charpillet
+1367020	Qiang Ji
+1604576	Steffen Bickel
+97275	András Lörincz
+695287	Ioannis Tsochantaridis
+6446176	Djamel A. Zighed
+1670170	Terry Noreault
+6790243	John C. S. Lui
+1211415	Moustafa A. Hammad
+1055766	Makoto Yokoo
+400384	Dina Bitton
+293898	Christina S. Leslie
+752667	Jason Y. Zien
+1285123	Orkut Buyukkokten
+261138	Chao Liu
+1833992	Yan Huang
+1768457	Wagner Meira Jr.
+810015	Jody J. Daniels
+515102	François Coste
+269342	Cheng Hian Goh
+1547276	Shashank Pandit
+777232	Jesse Hoey
+359451	Daphne Koller
+687125	Il-Yeol Song
+1883139	Yuichi Ohta
+801836	Jiong Yang
+1211442	Moustafa Ghanem
+1907775	Zhengdao Xu
+1088566	Marimuthu Palaniswami
+1817651	Xin Dong
+1391676	Raghu Ramakrishnan
+850983	Joseph Y. Halpern
+1596471	Srinivasan Parthasarathy
+220209	Bruce Blumberg
+1711145	Torsten Schaub
+1571876	Shuzo Yajima
+998457	Ling Chen
+1326114	Pedro Meseguer
+80950	Alok Gupta
+375868	David Sarne
+1121323	Massimo Melucci
+1817633	Xin Chen
+1367125	Qiang Yang
+1072211	Marco Brambilla
+1825880	Xuejun Liao
+1006667	Lois M. L. Delcambre
+277569	Chien Chin Chen
+179268	Barron C. Housel
+1547359	Shashi K. Gadia
+1490014	Saburo Tsuji
+6790186	Juan-Zi Li
+244813	Carlotta Domeniconi
+138322	Antony Galton
+6790199	Richard C. T. Lee
+400470	Dina Q. Goldin
+1399876	Ramesh C. Agarwal
+1367110	Qiang Wang
+261206	Chao Wang
+1817667	Xin Fu
+1530957	Sepandar D. Kamvar
+1072202	Marco Botta
+1244236	Nelson Mendonça Mattos
+998481	Ling Feng
+867437	Jun Li
+1334384	Peter F. Patel-Schneider
+81000	Alok N. Choudhary
+269421	Cheng Luo
+1817719	Xin Li
+1834102	Yan Liu
+1367162	Qiang Zhu
+64623	Alexander L. Strehl
+416886	Douglas Aberdeen
+1809514	Xiao Mang Shou
+1514594	Sarit Kraus
+359539	Daqing He
+162936	Avrim Blum
+1662051	Tapas Kanungo
+670833	Hung Hai Bui
+744560	Jan-Ming Ho
+1711204	Torsten Suel
+654454	Hongbo Xu
+1817754	Xin Liu
+1662099	Tapio Elomaa
+760967	Jean-Paul Laumond
+1072286	Marco Cadoli
+1137822	Maya Ramanath
+48274	Alain Colmerauer
+1899663	Zaiqing Nie
+695454	Ion Muslea
+1195143	Mohamed F. Mokbel
+1342594	Petros Drineas
+998551	Ling Ma
+1744002	Venky Harinarayan
+1547406	Shashi Shekhar
+818325	John Dunnion
+916628	Keke Cai
+916631	Keke Chen
+1686659	Thore Graepel
+842902	José Hernández-Orallo
+6446329	Hong-Jiang Zhang
+621717	Harry Wechsler
+6790394	Mario A. López
+998545	Ling Liu
+621737	Harry Zhang
+916653	Keki B. Irani
+5946617	Joan Claudi Socoró
+1768638	Wai Gen Yee
+613548	Hannu Toivonen
+6216952	Loren G. Terveen
+1285301	Orly Liphstat
+146603	Arnab Bhattacharya
+1612977	Steve A. Chien
+621728	Harry Wu
+1006756	Lokendra Shastri
+1858737	Yoav Freund
+638137	Herbert Weber
+1359015	Prabhakar Raghavan
+6790356	Robert W. P. Luk
+1604782	Steffen Hölldobler
+1334435	Peter Fankhauser
+1031350	M. E. Maron
+81083	Alon Altman
+695478	Ion Stoica
+810160	Joe Carthy
+1178798	Milad Shokouhi
+515271	François Fouss
+998606	Ling Wang
+1678555	Thomas C. Rakow
+793801	Jimeng Sun
+1858777	Yoav Raz
+720076	J. Scott McCarley
+998601	Ling Tony Chen
+1162454	Michael Rys
+1785043	Wenhui Liao
+1834195	Yan Qi 0002
+187592	Benjamin C. M. Fung
+1621202	Sudarshan S. Chawathe
+376014	David Scott Warren
+728262	Jae-Gil Lee
+670917	Hung Son Nguyen
+1195203	Mohamed G. Elfeky
+556250	Gerd Stumme
+1400006	Ramesh Natarajan
+1400001	Ramesh Nallapati
+720082	J. Scott Penberthy
+720080	J. Scott Olsson
+1670338	Terry Winograd
+6192261	Adriane Chapman
+89309	Amnon Lotem
+1424585	Richard I. Hartley
+1555656	Shih-Fu Chang
+89310	Amnon Meisels
+1596664	Sriram Raghavan
+269540	Cheng Yang
+154851	Ashraf Aboulnaga
+1817849	Xin Wang
+6446209	Zhongfei (Mark) Zhang
+351457	Daniel Lemire
+31973	Adnan Darwiche
+1432819	Robert A. Hummel
+244964	Carmel Domshlak
+89321	Amnon Shashua
+1858804	Yoav Y. Schechner
+1596658	Sriram Padmanabhan
+1260799	Nina Mishra
+1711350	Toru Ishida
+1244414	Nematollaah Shiri
+687355	Ilaria Bartolini
+1834223	Yan Rui Huang
+6446231	J. Leon Zhao
+1391843	Ragini Verma
+474353	Evaggelia Pitoura
+1137897	Mayank Bawa
+1858789	Yoav Shoham
+998645	Ling Zhang
+834801	Joo-Hwee Lim
+1318123	Paul McNamee
+6446435	Mohammed J. Zaki
+941327	Kôiti Hasida
+6790501	Liu Wenyin
+1408273	Ray R. Larson
+1621276	Sudeep Sarkar
+1170708	Michelle X. Zhou
+5741905	Chris H. Q. Ding
+1817884	Xin Xu
+81160	Alon Orlitsky
+1588498	Song Lin
+793862	Jiming Liu
+1531163	Seppo Sippu
+1432859	Robert A. Kowalski
+5741913	Thomas G. Dietterich
+220434	Bruce E. Martin
+1654028	Takashi Matsuyama
+1768716	Wai Lam
+1416450	Rene Quiniou
+6290759	Wray L. Buntine
+1047830	Maciej Zakrzewicz
+1793281	William J. Clancey
+1416462	René Reboh
+736555	James L. Benedict
+326949	Csaba Szepesvári
+1547573	Shaul Dar
+941356	Koji Eguchi
+1367351	Qiankun Zhao
+1441078	Robert St. Amant
+1817919	Xin Zhang
+1760560	Vladimir Lifschitz
+5741948	Keith Decker
+580924	Guang Dai
+89400	Amol Deshpande
+867639	Jun Ohya
+1563949	Shotaro Akaho
+605493	Haiquan Li
+1301806	Panagiotis Karras
+89407	Amol Ghoting
+1768740	Wai Lup Low
+523588	Fredric C. Gey
+1424726	Richard J. Doyle
+6790436	Luís C. Lamb
+1187163	Minoru Asada
+580931	Guang Feng
+990554	Lian Yan
+1547586	Shaul Markovitch
+1588557	Song Wang
+6790450	Udo W. Lipeck
+941398	Koji Hino
+564564	Gio Wiederhold
+1334601	Peter Friedland
+1580358	Simonas Saltenis
+400729	Dinesh Manocha
+1318261	Paul Morris
+695659	Iosif Lazaridis
+1449332	Roger S. Barga
+1334646	Peter G. Anick
+867695	Jun Rao
+654698	Hongfei Guo
+1686909	Thorsten Joachims
+1269110	Norman I. Badler
+1834354	Yan Zhang
+130408	Antal van den Bosch
+1465724	Ruihua Song
+220525	Bruce G. Buchanan
+351605	Daniel Lowd
+1703272	Tom W. Keller
+236913	Calisto Zuzarte
+875897	Jussi Myllymaki
+1400161	Ramez Elmasri
+376179	David Shutt
+1432930	Robert A. Morris
+220536	Bruce G. Lindsay
+1138029	Maybin K. Muyeba
+1154412	Michael E. Houle
+580983	Guang Qiu
+1482135	S. Misbah Deen
+1834393	Yan Zhao
+5742035	Michael Dahlin
+867720	Jun Sakuma
+834953	Joohyung Lee
+826763	John Yen
+1269140	Norman K. Sondheimer
+81288	Aloysius Cornelio
+523656	Fredrik A. Dahl
+1752469	Vinay K. Chaudhri
+417175	Douglas E. Appelt
+1080708	Maria E. Orlowska
+1015191	Lucian Popa
+376217	David Silver
+1785220	Wenjie Li
+515494	François Laviolette
+1064370	Manuela M. Veloso
+1613245	Steve Chien
+1318322	Paul N. Bennett
+875946	Jussi Rintanen
+794016	Jimmy J. Lin
+6790602	Alejandro López-Ortiz
+867744	Jun Sese
+1793460	William J. McKenna
+826812	John Zeleznikow
+294326	Christine Collet
+433588	Edward A. Fox
+433584	Edward A. Feigenbaum
+376242	David Sinclair
+1408429	Raya Fidel
+834996	Joon Ho Lee
+1826215	Xuemin Lin
+1015217	Lucian Vlad Lita
+368058	David G. Lowe
+1908188	Zhenglu Yang
+1654232	Takashi Okada
+1007053	Long Quan
+236999	Calton Pu
+1883609	Yuji Matsumoto
+64966	Alexander Markowetz
+351693	Daniel M. Dias
+1269215	Norman M. Sadeh
+376279	David Slater
+359894	Daria Sorokina
+1416641	René Vidal
+368081	David G. Mitchell
+507345	Floriana Esposito
+515547	François Llirbat
+638440	Herman L. Ferrá
+409063	Don S. Batory
+1678842	Thomas D. Garvey
+638445	Herman Lam
+466415	Ernest Davis
+540128	Ganesh Ramakrishnan
+155115	Ashutosh Garg
+540134	Ganesh Ramesh
+876029	Justin A. Boyan
+302581	Christopher W. Geib
+1154528	Michael E. Senko
+1179107	Milan Petkovic
+6790548	Elizabeth D. Liddy
+1334752	Peter G. Selfridge
+761343	Jean-Pierre Chevallet
+1596909	Srujana Merugu
+761341	Jean-Pierre Cheiney
+769523	Jennifer Neville
+1441262	Robert T. Collins
+1089003	Marina Meila
+1408491	Rayid Ghani
+1261036	Ning An
+1310225	Patrick Bosc
+146951	Arnaud Doucet
+695823	Iqbal A. Goralwalla
+1113622	Mary-Anne Williams
+548352	Georg Gottlob
+1490463	Sachindra Joshi
+1457693	Roni Khardon
+1408537	Raymond A. Lorie
+523784	Fredrik Kahl
+1515032	Sarvjeet Singh
+1056258	Malcolm J. A. Strens
+1277447	Olfa Nasraoui
+1089029	Marina Moscarini
+1351171	Pierre Dupont
+1605125	Steffen Staab
+114209	Andriy Mnih
+1318454	Paul O'Rorke
+7044681	Alex Rasin
+1334839	Peter Geibel
+1138226	Maytal Saar-Tsechansky
+1261108	Ning Liu
+138792	Antti Ukkonen
+319023	Colin P. Williams
+400937	Ding Zhou
+310839	Cinda Heeren
+867902	Jun Wang
+384566	Dejing Dou
+6790738	John E. Laird
+1826350	Xueqi Cheng
+1261093	Ning Jing
+155195	Ashutosh Saxena
+1187371	Minos N. Garofalakis
+949812	Krisztian Balog
+556597	Gerhard Brewka
+1244717	Neoklis Polyzotis
+1867357	Yoshiki Mikami
+6790694	Michael R. Lyu
+155201	Ashutosh Singh
+1056339	Malcolm P. Atkinson
+1588827	Songcan Chen
+695886	Ira Assent
+1187415	Minqing Hu
+179784	Barry O'Sullivan
+1449563	Roger Weber
+1588822	Songbo Tan
+1252957	Nicolas Meuleau
+720453	J. Stephen Downie
+6790711	Ming T. Liu
+654937	Honghua Dai
+1252930	Nicolas Maudet
+417365	Douglas H. Fisher
+646749	Hiroshi Ishiguro
+1171019	Michihiro Kuramochi
+1424975	Richard J. Wallace
+1416777	Renée J. Miller
+695895	Ira Cohen
+1318473	Paul Ogilvie
+5742089	Stefan Deßloch
+695914	Ira J. Haimowitz
+1826419	Xueqing Gong
+384620	Dekang Lin
+5742142	Franciska de Jong
+5742141	Angelika Kotz Dittrich
+646754	Hiroshi Ishikawa
+515691	François Paradis
+384619	Dekai Wu
+1269373	Norman W. Paton
+1752682	Vinayak R. Borkar
+556666	Gerhard Fischer
+474741	Evan Sultanik
+1310304	Patrick C. Fischer
+130677	Anthony B. O'Hare
+1703533	Tomás Brodský
+761468	Jean-Pierre Jouannaud
+220788	Bruce Krulwich
+1056362	Malcolm R. K. Ryan
+867958	Jun Xu
+1326703	Peer Kröger
+1261203	Ning Zhong
+540298	Gang Li
+1449621	Roger Zimmermann
+949899	Krithi Ramamritham
+695948	Ira P. Goldstein
+1269397	Norman Y. Foo
+48778	Alain Pirotte
+556678	Gerhard Friedrich
+1408641	Raymond Chi-Wing Wong
+786079	Jianguo Xiao
+89751	Amr El Abbadi
+867988	Jun Yang
+540305	Gang Luo
+1678981	Thomas Dean
+867985	Jun Yan
+1261197	Ning Zhang 0002
+1506996	Sang-Wook Kim
+5742322	Margaret H. Dunham
+466594	Ernest Szeto
+1826492	Xuerui Wang
+1023656	Luo Si
+327341	Cuiping Li
+1588914	Songhua Xu
+548516	Georg Lausen
+1425081	Richard K. Belew
+163503	Axel Mönkeberg
+466600	Ernest Teniente
+179890	Barry Smyth
+990910	Liang Huai Yang
+958138	Kyoji Hirata
+655025	Hongjian Fan
+982708	Lenhart K. Schubert
+1089195	Marina Sokolova
+1015476	Luciano Barbosa
+728758	Jae-Woo Chang
+1351339	Pierre Geurts
+1359572	Pradeep Shenoy
+736969	James M. Crawford
+540362	Gang Wu
+1138387	Mayur Datar
+212672	Brahim Hnich
+253642	Céline Robardet
+736967	James M. Coughlan
+253646	Céline Rouveirol
+1498840	Sameep Mehta
+540359	Gang Wang
+663258	Hua Li
+1302210	Panayiotis Tsaparas
+868057	Jun Zhang
+1130181	Matthias Brantner
+507603	Floris Geerts
+1629901	Surajit Chaudhuri
+868059	Jun Zhang 0002
+204501	Blai Bonet
+638686	Hermann Kaindl
+1171144	Michinari Momma
+1859270	Yohannes Tsegay
+540370	Gang Xu
+941781	Koji Tsuda
+343774	Dan A. Simovici
+147167	Arnaud Sahuguet
+5742260	Paul E. Dunne
+1236721	Natalie S. Glance
+868073	Jun Zhao
+1244917	Nesime Tatbul
+163557	Axel Polleres
+663267	Hua Lu
+818918	John F. Horty
+1212153	Mubarak Shah
+507627	Floris Roelofsen
+147184	Arnaud Soulet
+1793769	William Kaemmerer
+1081058	Maria Fox
+1654510	Takashi Washio
+868090	Jun Zhu
+409342	Donald A. Waterman
+1359597	Pradeep Varakantham
+1285866	Osamu Kakusho
+696048	Iraklis A. Klampanos
+130813	Anthony C. Klug
+1400553	Ramin Zabih
+794354	Jin Huang
+1203985	Moira C. Norrie
+81668	Altigran Soares da Silva
+1842969	Yasuhiko Morimoto
+376589	David Suter
+24330	Abhay Harpale
+1670932	Tetsuhiro Miyahara
+778011	Jessica Lin
+1793801	William Kent
+155412	Ashwin Ram
+687901	Ilia Nouretdinov
+122649	Ann E. Robinson
+1785601	Wenke Lee
+1163021	Michael Schmidt
+991023	Liang Wang
+466725	Ernesto Damiani
+859951	Jue Wang
+1613627	Steve Hanks
+1146674	Meng Chang Chen
+868136	Jun'ichi Tatemura
+1613630	Steve Hanneke
+622382	Hartmut Wedekind
+1425213	Richard Kirkby
+155437	Ashwin Srinivasan
+646969	Hiroshi Mamitsuka
+294710	Christine L. Borgman
+843576	José Luis Ambite
+409395	Donald Baker
+1728303	Uri Zernik
+1654561	Takashi Yokomori
+1457967	Ronny Lempel
+1679138	Thomas Drakengren
+1531688	Serge Abiteboul
+24385	Abhaya C. Nayak
+991054	Liang Xiong
+556876	Gerhard Knorz
+1392464	Rahul Gupta
+1277780	Olga Kapitskaia
+147274	Arnd Christian König
+1163096	Michael Schrefl
+704323	Ivan Serina
+1318744	Paul R. Cohen
+1318745	Paul R. Cooper
+1007424	Longin Jan Latecki
+302930	Christos Doulkeridis
+6348598	Michael J. Kearns
+106327	Andrei Arion
+5742348	Konstantinos Daniilidis
+1695556	Timothy Malkemus
+196444	Bettina Kemme
+368474	David Gondek
+1892220	Yushi Jing
+302951	Christos Faloutsos
+1802108	Wook-Shin Han
+614243	Hans J. Berliner
+1023845	Luping Ding
+5742396	Prasad Deshpande
+1179517	Milenko Petrovic
+556920	Gerhard Lakemeyer
+1507172	Sangdon Lee
+1605483	Stelios Paparizos
+1204071	Moisés Goldszmidt
+892794	Kang Zhang
+647049	Hiroshi Motoda
+65409	Alexander P. Topchy
+491398	Farnoush Banaei Kashani
+909195	Kazimierz Subieta
+655234	Hongjun Lu
+475018	Evangelos E. Milios
+1302430	Pang-Ning Tan
+606105	Haixun Wang
+409495	Donald Carney
+1621898	Sudipto Guha
+1785737	Wenliang Du
+647057	Hiroshi Murase
+1408911	Raymond J. Mooney
+1449869	Rohan A. Baxter
+221087	Bruce R. Schatz
+663446	Hua-Gang Li
+384935	Dell Zhang
+180133	Bart Goethals
+81833	Alvaro Barreiro
+1073080	Marco Gori
+647074	Hiroshi Nakagawa
+1916848	Zhouxuan Teng
+704420	Ivan T. Bowman
+925600	Kevin B. Korb
+409513	Donald Cohen
+81841	Alvaro Bolivar
+1564582	Shourya Roy
+475058	Evangelos Kanoulas
+1589167	Songtao Guo
+786355	Jianhua Feng
+1548203	Shawn R. Jeffery
+1400744	Ramkumar Krishnan
+409528	Donald D. Chamberlin
+769995	Jennifer Widom
+1908701	Zhengyou Zhang
+1671132	Tetsuo Mizoguchi
+1335260	Peter Haider
+1433564	Robert Baumgartner
+6889381	Chris Giannella
+663493	Hua-Jun Zeng
+1589195	Songting Chen
+1408962	Raymond K. Wong
+344029	Dan Cosley
+1818562	Xindong Wu
+7454632	Juan A. Rodríguez-Aguilar
+761810	Jean-Yves Audibert
+614356	Hans Jürgen Ohlbach
+1015761	Luciano Serafini
+499673	Fengzhan Tian
+729044	Jaeho Lee
+688085	Ilias Petrounias
+1105906	Martin Ester
+319458	Collin Jackson
+942054	Koki Kato
+761826	Jean-Yves Bouguet
+1368039	Qiaozhu Mei
+81906	Alvaro del Val
+548860	Georg Walch
+491507	Farouk Toumani
+483314	Fabian M. Suchanek
+1581038	Simone Santini
+655347	Hongkun Zhao
+6266787	David B. Dunson
+1499112	Sameh M. Yamany
