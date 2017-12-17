@@ -106,7 +106,8 @@ class PathSim(object):
                     
                     tmp_common_venue.append(venue)
                     tmp_meta_path_count += float(
-                            self.author_venue[author][venue])*float(self.author_venue[self.target_author_ID][venue])                        
+                            self.author_venue[author][venue])\
+                                           *float(self.author_venue[self.target_author_ID][venue])
                     tmp_author_self_path_count +=  float((
                             self.author_venue[author][venue]))**2
                     
